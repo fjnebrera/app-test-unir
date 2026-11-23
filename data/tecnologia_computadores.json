@@ -1,0 +1,2122 @@
+[
+    {
+        "enunciado": "¿Qué es la informática?",
+        "opciones":
+        [
+            {
+                "texto": "Es la forma científica de ordenar, seleccionar y ejecutar cálculos de forma que nos permita extraer conclusiones de la información manipulada.",
+                "correcta": true
+            },
+            {
+                "texto": "Es la ciencia que estudia el tratamiento racional de la información.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una herramienta que actualmente nos permite el tratamiento automático de la información.",
+                "correcta": false
+            },
+            {
+                "texto": "Es la técnica que facilitar el manejo y la movilidad de los equipos utilizados.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Quién es considerado el padre de los computadores?",
+        "opciones":
+        [
+            {
+                "texto": "Leonardo da Vinci.",
+                "correcta": false
+            },
+            {
+                "texto": "Charles Babbage.",
+                "correcta": true
+            },
+            {
+                "texto": "Herman Hollerith.",
+                "correcta": false
+            },
+            {
+                "texto": "Alan Turing.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué elementos caracterizan a la segunda generación de computadores?",
+        "opciones":
+        [
+            {
+                "texto": "Relés, bobinas y válvulas de vidrio al vacío.",
+                "correcta": false
+            },
+            {
+                "texto": "Transistores y memorias de ferrita",
+                "correcta": true
+            },
+            {
+                "texto": "Circuito integrado.",
+                "correcta": false
+            },
+            {
+                "texto": "Microprocesador.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuándo comenzaron a desarrollarse los discos duros?",
+        "opciones":
+        [
+            {
+                "texto": "En la primera generación.",
+                "correcta": false
+            },
+            {
+                "texto": "En la tercera generación.",
+                "correcta": false
+            },
+            {
+                "texto": "En la actualidad.",
+                "correcta": false
+            },
+            {
+                "texto": "En la cuarta generación.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es un ejemplo de arquitectura de computadores?",
+        "opciones":
+        [
+            {
+                "texto": "El número de bits usados para representar varios tipos de datos.",
+                "correcta": true
+            },
+            {
+                "texto": "Los periféricos.",
+                "correcta": false
+            },
+            {
+                "texto": "La interfaz entre el computador y los periféricos.",
+                "correcta": false
+            },
+            {
+                "texto": "El coste del equipo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es un computador?",
+        "opciones":
+        [
+            {
+                "texto": "Es la unidad de control que gestiona la información recibida y da respuesta a las instrucciones que recibe.",
+                "correcta": false
+            },
+            {
+                "texto": "Es el conjunto formado por las unidades funcionales y sus interconexiones.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un sistema capaz de procesar y almacenar datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Un computador es un sistema complejo, de naturaleza jerárquica, que está compuesto por componentes electrónicos básicos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "Desde el punto de vista del diseñador, ¿qué partes son importantes en un nivel?",
+        "opciones":
+        [
+            {
+                "texto": "La estructura y el funcionamiento.",
+                "correcta": true
+            },
+            {
+                "texto": "El procesamiento de datos y el control de las funciones.",
+                "correcta": false
+            },
+            {
+                "texto": "La unidad central de procesamiento, la memoria principal y el sistema de interconexión.",
+                "correcta": false
+            },
+            {
+                "texto": "El bus del sistema y los registros.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de estas funciones NO es una función básica del computador?",
+        "opciones":
+        [
+            {
+                "texto": "Procesamiento de datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Transferencia de datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Control.",
+                "correcta": false
+            },
+            {
+                "texto": "Comunicación.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuáles son los componentes estructurales de un computador?",
+        "opciones":
+        [
+            {
+                "texto": "Unidad central de procesamiento, memoria principal, entradas/salidas y sistema de interconexión.",
+                "correcta": true
+            },
+            {
+                "texto": "Unidad central de procesamiento, unidad de control, unidad aritmético-lógica y registros.",
+                "correcta": false
+            },
+            {
+                "texto": "Unidad de control, unidad aritmético-lógica, registros e interconexiones CPU.",
+                "correcta": false
+            },
+            {
+                "texto": "Estructura y funcionamiento.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué de estos componentes proporciona comunicación entre la unidad de control, la unidad aritmético-lógica y los registros?",
+        "opciones":
+        [
+            {
+                "texto": "Unidad central de procesamiento.",
+                "correcta": false
+            },
+            {
+                "texto": "Memoria principal.",
+                "correcta": false
+            },
+            {
+                "texto": "Unidad de control.",
+                "correcta": false
+            },
+            {
+                "texto": "Interconexiones CPU.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es la parte del computador que realiza realmente las operaciones aritméticas y lógicas con los datos?",
+        "opciones":
+        [
+            {
+                "texto": "ALU (Unidad aritmético-lógica).",
+                "correcta": true
+            },
+            {
+                "texto": "CPU (Unidad central de proceso).",
+                "correcta": false
+            },
+            {
+                "texto": "CU (Unidad de control de programa).",
+                "correcta": false
+            },
+            {
+                "texto": "La memoria principal.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué sistema de numeración consideras que está el siguiente dato: «AAA»?",
+        "opciones":
+        [
+            {
+                "texto": "Notación decimal.",
+                "correcta": false
+            },
+            {
+                "texto": "Notación hexadecimal.",
+                "correcta": true
+            },
+            {
+                "texto": "Notación binaria.",
+                "correcta": false
+            },
+            {
+                "texto": "Notación del estándar IEEE 754.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué valor resulta al convertir el siguiente valor en notación decimal a notación binaria: 247?",
+        "opciones":
+        [
+            {
+                "texto": "1011 0011.",
+                "correcta": false
+            },
+            {
+                "texto": "1111 0111.",
+                "correcta": true
+            },
+            {
+                "texto": "1010 1010.",
+                "correcta": false
+            },
+            {
+                "texto": "1111 1110.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué tipo de representación de enteros tiene la correspondencia siguiente: -3 en representación decimal corresponde a 1101?",
+        "opciones":
+        [
+            {
+                "texto": "Representación en signo-magnitud.",
+                "correcta": false
+            },
+            {
+                "texto": "Representación en complemento a uno.",
+                "correcta": false
+            },
+            {
+                "texto": "Representación en coma flotante.",
+                "correcta": false
+            },
+            {
+                "texto": "Representación en complemento a dos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes es la negación del número 23 en complemento a dos?",
+        "opciones":
+        [
+            {
+                "texto": "1110 1000.",
+                "correcta": false
+            },
+            {
+                "texto": "1111 0001.",
+                "correcta": false
+            },
+            {
+                "texto": "1110 1101.",
+                "correcta": false
+            },
+            {
+                "texto": "1110 1001.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el resultado de la suma de los siguientes dos enteros binarios sin signo: 11 (1011) y 7 (0111)?",
+        "opciones":
+        [
+            {
+                "texto": "0001 0010.",
+                "correcta": true
+            },
+            {
+                "texto": "0001 0001.",
+                "correcta": false
+            },
+            {
+                "texto": "0100 1101.",
+                "correcta": false
+            },
+            {
+                "texto": "0010 1001.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el resultado de la multiplicación de los siguientes dos enteros binarios sin signo: 11 (1011) y 7 (0111)?",
+        "opciones":
+        [
+            {
+                "texto": "0001 0010.",
+                "correcta": false
+            },
+            {
+                "texto": "0001 0001.",
+                "correcta": false
+            },
+            {
+                "texto": "0100 1101.",
+                "correcta": true
+            },
+            {
+                "texto": "0010 1001.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el resultado de la resta de los siguientes números en complemento a dos: 1011011 - 0101110?",
+        "opciones":
+        [
+            {
+                "texto": "0010 1101.",
+                "correcta": true
+            },
+            {
+                "texto": "1101 0001.",
+                "correcta": false
+            },
+            {
+                "texto": "0111 1101.",
+                "correcta": false
+            },
+            {
+                "texto": "1010 1001.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el valor de -36 en el estándar IEEE 754 de simple precisión?",
+        "opciones":
+        [
+            {
+                "texto": "11000011100100000000000000000000.",
+                "correcta": false
+            },
+            {
+                "texto": "110000101110100000000000000000000.",
+                "correcta": false
+            },
+            {
+                "texto": "11010010000100000000000000000000.",
+                "correcta": false
+            },
+            {
+                "texto": "11000010000100000000000000000000.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el valor de – 16 en complemento a dos con 5 bits?",
+        "opciones":
+        [
+            {
+                "texto": "10000.",
+                "correcta": true
+            },
+            {
+                "texto": "10011.",
+                "correcta": false
+            },
+            {
+                "texto": "10010.",
+                "correcta": false
+            },
+            {
+                "texto": "11000.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes expresiones representa lo mismo que: A · B?",
+        "opciones": [
+            {
+                "texto": "A AND B.",
+                "correcta": true
+            },
+            {
+                "texto": "A OR B.",
+                "correcta": false
+            },
+            {
+                "texto": "A NOT B.",
+                "correcta": false
+            },
+            {
+                "texto": "A NAND B.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el valor de la salida Y? (Descripción del circuito: Las entradas A y B se conectan a una puerta OR. Las entradas C y D se conectan a una segunda puerta OR. Las salidas de ambas puertas OR se conectan a las entradas de una puerta NAND, cuya salida es Y).",
+        "opciones": [
+            {
+                "texto": "(A+B¯) ∙ (C+D¯).",
+                "correcta": false
+            },
+            {
+                "texto": "(A+B) ∙ (C+D).",
+                "correcta": false
+            },
+            {
+                "texto": "(A+B) ∙ (C+D)¯.",
+                "correcta": true
+            },
+            {
+                "texto": "(A+B¯) ∙ (C+D¯)¯.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿A qué puerta corresponde la siguiente tabla de verdad? (X=0, Y=0 -> Z=1 | X=0, Y=1 -> Z=0 | X=1, Y=0 -> Z=0 | X=1, Y=1 -> Z=0)",
+        "opciones": [
+            {
+                "texto": "EXOR.",
+                "correcta": false
+            },
+            {
+                "texto": "NOR.",
+                "correcta": true
+            },
+            {
+                "texto": "EXNOR.",
+                "correcta": false
+            },
+            {
+                "texto": "NAND.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En cuál de los operandos la salida es verdadera si y solo si uno o ambos operandos son verdad?",
+        "opciones": [
+            {
+                "texto": "NOT.",
+                "correcta": false
+            },
+            {
+                "texto": "AND.",
+                "correcta": false
+            },
+            {
+                "texto": "EXOR.",
+                "correcta": false
+            },
+            {
+                "texto": "OR.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Para qué se utiliza un mapa de Karnaugh en el álgebra de Boole?",
+        "opciones": [
+            {
+                "texto": "Representar 1 y 0.",
+                "correcta": false
+            },
+            {
+                "texto": "Obtener la forma SOP de una tabla de verdad.",
+                "correcta": false
+            },
+            {
+                "texto": "Simplificar funciones lógicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Convertir a notación decimal un sistema binario.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una función incompletamente específica?",
+        "opciones": [
+            {
+                "texto": "Una función lógica que no tiene solución.",
+                "correcta": false
+            },
+            {
+                "texto": "Una función en la que no importa el estado de la salida para ciertas combinaciones de entrada.",
+                "correcta": true
+            },
+            {
+                "texto": "Una función lógica escrita en notación decimal.",
+                "correcta": false
+            },
+            {
+                "texto": "Un sumatorio de términos lógicos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿A qué teorema corresponde la siguiente expresión: X•Y+X•Y¯=X?",
+        "opciones": [
+            {
+                "texto": "Teorema de la adyacencia.",
+                "correcta": true
+            },
+            {
+                "texto": "Teorema de la doble complementación.",
+                "correcta": false
+            },
+            {
+                "texto": "Propiedad distributiva.",
+                "correcta": false
+            },
+            {
+                "texto": "Teorema de Morgan.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de estos circuitos combinacionales solo posee una entrada de datos?",
+        "opciones": [
+            {
+                "texto": "Codificador",
+                "correcta": false
+            },
+            {
+                "texto": "Decodificador.",
+                "correcta": false
+            },
+            {
+                "texto": "Demultiplexor.",
+                "correcta": true
+            },
+            {
+                "texto": "Multiplexor.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué quiere decir el principio de dualidad?",
+        "opciones": [
+            {
+                "texto": "Es la prueba de todas las posibilidades en las variables booleanas involucradas.",
+                "correcta": false
+            },
+            {
+                "texto": "Siempre que se cumpla una ley o teorema en el álgebra de Boole, también es válido en su forma dual.",
+                "correcta": true
+            },
+            {
+                "texto": "Dados dos elementos cualesquiera de un conjunto determinado, se verifica que existe una operación que verifique la igualdad.",
+                "correcta": false
+            },
+            {
+                "texto": "Si multiplicamos un número por otro, el resultado es el mismo que si multiplicamos el primer número por la suma o la resta que da como resultado el segundo número.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes funciones cumple con el circuito de la figura? (Descripción del circuito: La entrada A pasa por una puerta NOT y entra a una puerta AND junto con la entrada C. La entrada D pasa por una puerta NOT y entra a una puerta OR junto con la salida de la puerta AND anterior).",
+        "opciones": [
+            {
+                "texto": "A¯+C.",
+                "correcta": false
+            },
+            {
+                "texto": "A¯+DC.",
+                "correcta": false
+            },
+            {
+                "texto": "A¯+CD¯.",
+                "correcta": false
+            },
+            {
+                "texto": "A¯C+D¯.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es un circuito síncrono?",
+        "opciones": [
+            {
+                "texto": "Un circuito que evoluciona a cada cambio de entrada.",
+                "correcta": false
+            },
+            {
+                "texto": "Un circuito que evoluciona al cambiar una señal específica de reloj.",
+                "correcta": true
+            },
+            {
+                "texto": "Un circuito cuyas entradas solo dependen del álgebra booleana.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un circuito capaz de memorizar un circuito empleando puertas lógicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿A qué puerta corresponde la siguiente tabla característica? (Tabla con columnas S, R y Qt+1. Filas: 1, 1 -> Qt; 0, 1 -> 1; 1, 0 -> 0; 0, 0 -> --)",
+        "opciones": [
+            {
+                "texto": "Biestable D.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable R-S.",
+                "correcta": true
+            },
+            {
+                "texto": "Biestable J-K.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable T.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de los siguientes biestables corresponde este símbolo? (Símbolo de un bloque lógico con entradas J, K y una entrada de reloj C que incluye un círculo y un triángulo, indicando activación por flanco de bajada)",
+        "opciones": [
+            {
+                "texto": "Biestable J-K síncrono activado por flaco de bajada.",
+                "correcta": true
+            },
+            {
+                "texto": "Biestable J-K asíncrono.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable J-K síncrono activado por flanco de subida.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable J-K construido a partir de un biestable R-S.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿A qué biestable se le conoce con el nombre de biestable de datos?",
+        "opciones": [
+            {
+                "texto": "Biestable T.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable J-K.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable R-S.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable D.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué biestable se puede implementar con puertas NOR o con puertas NAND?",
+        "opciones": [
+            {
+                "texto": "Biestable R-S.",
+                "correcta": true
+            },
+            {
+                "texto": "Biestable D.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable T.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable J-K.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué biestable debemos utilizar para realizar un divisor de frecuencia?",
+        "opciones": [
+            {
+                "texto": "Biestable D.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable J-K.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable R-S.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable T.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es un contador?",
+        "opciones": [
+            {
+                "texto": "Un elemento de memoria.",
+                "correcta": false
+            },
+            {
+                "texto": "Un circuito específico que realiza una cuenta o secuencia fija a la salida.",
+                "correcta": true
+            },
+            {
+                "texto": "Un elemento lógico que carga y almacena datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Un sumatorio de términos lógicos interconectados en cascada.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué hace el circuito 74194?",
+        "opciones": [
+            {
+                "texto": "Un biestable D.",
+                "correcta": false
+            },
+            {
+                "texto": "Un biestable J-K.",
+                "correcta": false
+            },
+            {
+                "texto": "Contador.",
+                "correcta": false
+            },
+            {
+                "texto": "Registro de desplazamiento.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Para qué sirve un cronograma?",
+        "opciones": [
+            {
+                "texto": "Para cuantificar el ciclo de trabajo de un biestable.",
+                "correcta": false
+            },
+            {
+                "texto": "Para medir el tiempo de ejecución de las máquinas de estado.",
+                "correcta": false
+            },
+            {
+                "texto": "Para analizar cómo evoluciona un circuito.",
+                "correcta": true
+            },
+            {
+                "texto": "Para simplificar un circuito secuencial.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuáles son los circuitos secuenciales más básicos?",
+        "opciones": [
+            {
+                "texto": "Contadores.",
+                "correcta": false
+            },
+            {
+                "texto": "Flip-flops.",
+                "correcta": true
+            },
+            {
+                "texto": "Máquina de estados.",
+                "correcta": false
+            },
+            {
+                "texto": "Circuitos secuenciales asíncronos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué registro de memoria se almacena la siguiente dirección de memoria en la que la CPU va a leer?",
+        "opciones": [
+            {
+                "texto": "MBR.",
+                "correcta": false
+            },
+            {
+                "texto": "MAR E/S.",
+                "correcta": false
+            },
+            {
+                "texto": "MBR E/S.",
+                "correcta": false
+            },
+            {
+                "texto": "MAR.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿A qué puerta corresponde la siguiente tabla característica? (Tabla con columnas A, C e Y. Cuando C=0, Y es 'Driver desconectado'. Cuando C=1, Y toma el valor de A[cite: 6]).",
+        "opciones": [
+            {
+                "texto": "Puerta NAND.",
+                "correcta": false
+            },
+            {
+                "texto": "Puerta triestado.",
+                "correcta": true
+            },
+            {
+                "texto": "Biestable J-K.",
+                "correcta": false
+            },
+            {
+                "texto": "Biestable R-S.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cómo se llama a la secuencia de operaciones realizada en la ejecución de una instrucción?",
+        "opciones": [
+            {
+                "texto": "Ciclo de instrucción.",
+                "correcta": true
+            },
+            {
+                "texto": "Ciclo de búsqueda.",
+                "correcta": false
+            },
+            {
+                "texto": "Ciclo de ejecución.",
+                "correcta": false
+            },
+            {
+                "texto": "Temporalización.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el registro que controla la posición de la memoria donde se encuentra la próxima instrucción?",
+        "opciones": [
+            {
+                "texto": "Contador de programa.",
+                "correcta": true
+            },
+            {
+                "texto": "MBR.",
+                "correcta": false
+            },
+            {
+                "texto": "MAR E/S.",
+                "correcta": false
+            },
+            {
+                "texto": "MBR E/S.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una interrupción?",
+        "opciones": [
+            {
+                "texto": "Es un mecanismo mediante el que los módulos de E/S y la memoria pueden interrumpir el procesamiento normal de la CPU.",
+                "correcta": true
+            },
+            {
+                "texto": "Es un mecanismo encargado de escribir el resultado en memoria o en un dispositivo de E/S.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un mecanismo que almacena la dirección de la próxima instrucción que va a ejecutar y cualquier dato relevante para poder continuar posteriormente la ejecución de este programa en el punto que lo interrumpió.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un mecanismo que se encarga de dar servicio a la petición que estaba solicitada y pendiente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué nombre reciben los diferentes caminos que conectan los módulos de un computador?",
+        "opciones": [
+            {
+                "texto": "Arquitectura Von Neumann.",
+                "correcta": false
+            },
+            {
+                "texto": "CPU.",
+                "correcta": false
+            },
+            {
+                "texto": "Ciclo de instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Estructura de interconexión.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué arquitectura se incluye un mecanismo de distribución centralizado que une todos los componentes?",
+        "opciones": [
+            {
+                "texto": "Arquitectura de E/S mediante un conmutador central.",
+                "correcta": true
+            },
+            {
+                "texto": "Arquitectura con bus de E/S.",
+                "correcta": false
+            },
+            {
+                "texto": "Arquitectura de E/S a través de la memoria.",
+                "correcta": false
+            },
+            {
+                "texto": "Arquitectura de E/S a través de la CPU.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué línea se utiliza para seleccionar el destino de la información que hay en el bus de datos?",
+        "opciones": [
+            {
+                "texto": "Línea de control.",
+                "correcta": false
+            },
+            {
+                "texto": "Línea de referencia.",
+                "correcta": false
+            },
+            {
+                "texto": "Línea de alimentación.",
+                "correcta": false
+            },
+            {
+                "texto": "Línea de dirección.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cómo se clasifican los métodos de arbitraje?",
+        "opciones": [
+            {
+                "texto": "Centralizado y distribuido.",
+                "correcta": true
+            },
+            {
+                "texto": "Síncrono y asíncrono.",
+                "correcta": false
+            },
+            {
+                "texto": "Dedicado y no dedicado.",
+                "correcta": false
+            },
+            {
+                "texto": "De dirección y de datos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de estas características es deseable en un diseño de alto rendimiento?",
+        "opciones": [
+            {
+                "texto": "Tener líneas de datos y de direcciones multiplexadas.",
+                "correcta": false
+            },
+            {
+                "texto": "Tener líneas de datos y de direcciones independientes.",
+                "correcta": true
+            },
+            {
+                "texto": "Utilizar solo un maestro.",
+                "correcta": false
+            },
+            {
+                "texto": "Ser asíncrono.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una memoria externa?",
+        "opciones": [
+            {
+                "texto": "Es una memoria alojada en un dispositivo periférico de almacenamiento al que la CPU accede a través de controladores de E/S.",
+                "correcta": true
+            },
+            {
+                "texto": "Es una memoria de gran tamaño y velocidad que se encarga del almacenamiento de las instrucciones de los programas que se están ejecutando en ese momento y sus datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una memoria formada básicamente por registros de alta velocidad internos a la CPU que se utilizan como almacenamiento temporal de instrucciones y datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una memoria que se caracteriza porque la identificación de la posición de memoria a la que se quiere acceder se lleva a cabo detallar su contenido o parte de él.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuáles de los siguientes métodos no es un método de acceso a la memoria?",
+        "opciones": [
+            {
+                "texto": "Acceso aleatorio.",
+                "correcta": false
+            },
+            {
+                "texto": "Acceso secuencial.",
+                "correcta": false
+            },
+            {
+                "texto": "Acceso asociativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Acceso arbitrario.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es la alterabilidad en una memoria?",
+        "opciones": [
+            {
+                "texto": "Es el número de bits leídos y escritos en la memoria simultáneamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Es la capacidad de alterar el contenido de una memoria.",
+                "correcta": true
+            },
+            {
+                "texto": "Es la cantidad de información que es capaz de almacenar.",
+                "correcta": false
+            },
+            {
+                "texto": "Es el tiempo medio necesario para leer una cantidad fija de información o dicho de otra manera es el tiempo transcurrido desde que se solicita una información a un dispositivo de memoria hasta que está disponible.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué características tiene una memoria ROM?",
+        "opciones": [
+            {
+                "texto": "Es alterable y volátil.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene una capacidad muy alta y un tiempo de acceso muy bajo.",
+                "correcta": true
+            },
+            {
+                "texto": "Tiene una capacidad muy alta y el volátil.",
+                "correcta": false
+            },
+            {
+                "texto": "Tiene una capacidad muy alta y es alterable y volátil.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el objetivo del sistema de jerarquías de las memorias?",
+        "opciones": [
+            {
+                "texto": "Ofrecer al usuario tanta capacidad de memoria como sea posible al menor coste y dotar al sistema de una velocidad de acceso cercana a la más rápida necesaria por el sistema.",
+                "correcta": true
+            },
+            {
+                "texto": "Conseguir el diseño de memorias más económicas reduciendo su velocidad.",
+                "correcta": false
+            },
+            {
+                "texto": "Establecer un compromiso entre el coste y la capacidad de las memorias.",
+                "correcta": false
+            },
+            {
+                "texto": "Servir de marco teórico para poder comparar diferentes tecnologías de memorias de forma equitativa.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cómo se lleva a cabo una ampliación de memorias?",
+        "opciones": [
+            {
+                "texto": "Es habitual utilizar un bloque básico en una placa de circuito impreso y que se repite tantas veces como sea necesario.",
+                "correcta": true
+            },
+            {
+                "texto": "Utilizando drives entre las líneas de dirección y de datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Con el uso de CIM y decodificadores.",
+                "correcta": false
+            },
+            {
+                "texto": "Refrescando la memoria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuándo se considera que se ha producido un fallo en la memoria caché?",
+        "opciones": [
+            {
+                "texto": "Cuando la CPU produce una dirección para realizar un acceso a una palabra concreta de la memoria principal.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando se envía un bloque de la memoria principal a la memoria caché, con la palabra buscada, y se mueve un conjunto de palabras adyacentes.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando la CPU necesita acceder a una palabra que esté almacenada en la memoria principal y la encuentra en la memoria caché.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando la palabra solicitada por la CPU a la memoria principal no se encuentra en la memoria caché se dice que se produce un fallo.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué parámetro relaciona el tiempo de acceso a la memoria principal y el tiempo de acceso medio a la memoria?",
+        "opciones": [
+            {
+                "texto": "Índice de mejora λ.",
+                "correcta": true
+            },
+            {
+                "texto": "Rendimiento.",
+                "correcta": false
+            },
+            {
+                "texto": "tasa de fallos.",
+                "correcta": false
+            },
+            {
+                "texto": "Razón τ.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una memoria asociativa?",
+        "opciones": [
+            {
+                "texto": "Es una memoria se caracteriza por la identificación de la posición de memoria a la que se quiere acceder se lleva a cabo detallar su contenido o parte de él.",
+                "correcta": true
+            },
+            {
+                "texto": "Es una memoria que comparten varios procesadores simultáneamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una memoria que solo se puede leer el último dato almacenado en ellas.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un derivado de la memoria EEPROM.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué parte física del disco duro magnético contiene la información almacenada?",
+        "opciones": [
+            {
+                "texto": "Motor.",
+                "correcta": false
+            },
+            {
+                "texto": "Discos ópticos.",
+                "correcta": false
+            },
+            {
+                "texto": "Cabeza de lectura/escritura.",
+                "correcta": false
+            },
+            {
+                "texto": "Discos magnéticos.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes estrategias no emplea la DMA para enviar/recibir datos de la memoria?",
+        "opciones": [
+            {
+                "texto": "Por ráfagas.",
+                "correcta": false
+            },
+            {
+                "texto": "Por robo de ciclos.",
+                "correcta": false
+            },
+            {
+                "texto": "Daisy chain.",
+                "correcta": true
+            },
+            {
+                "texto": "DMA transparente.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes funciones no es llevada a cabo por el controlador de E/S?",
+        "opciones": [
+            {
+                "texto": "Control y temporalización.",
+                "correcta": false
+            },
+            {
+                "texto": "Comunicación con el dispositivo externo.",
+                "correcta": false
+            },
+            {
+                "texto": "Realización de operaciones aritmético-lógicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Detección de errores.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una entrada/salida conectada por programa?",
+        "opciones": [
+            {
+                "texto": "Técnica en la que la CPU envía una orden al controlador de E/S y continúa ejecutando otras instrucciones hasta que es interrumpida por el controlador de E/S cuando acaba la orden que se le había enviado.",
+                "correcta": false
+            },
+            {
+                "texto": "Técnicas a partir de las cuales se realizan las operaciones de E/S.",
+                "correcta": true
+            },
+            {
+                "texto": "Modo de operación a partir del cual el controlador de E/S y la memoria intercambian datos sin intervenir la CPU.",
+                "correcta": false
+            },
+            {
+                "texto": "Modo de operación que utiliza dos buses independientes, uno para la memoria y otro para el sistema de E/S.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué orden se utiliza para activar un periférico?",
+        "opciones": [
+            {
+                "texto": "Orden de control.",
+                "correcta": true
+            },
+            {
+                "texto": "Orden de escritura.",
+                "correcta": false
+            },
+            {
+                "texto": "Orden de comprobación.",
+                "correcta": false
+            },
+            {
+                "texto": "Orden de lectura.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué ventaja tiene utilizar las E/S controladas por programa?",
+        "opciones": [
+            {
+                "texto": "Pérdida de tiempo en el bucle de espera.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una estrategia sencilla.",
+                "correcta": true
+            },
+            {
+                "texto": "Si hay programas que deben ejecutarse de forma periódica, la CPU no puede permanecer en el bucle de espera indefinidamente.",
+                "correcta": false
+            },
+            {
+                "texto": "Si la CPU está atendiendo a un periférico concreto, desatiende al resto.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cómo se clasifican las interrupciones en función del origen de las interrupciones?",
+        "opciones": [
+            {
+                "texto": "Múltiples y una sola línea de petición de interrupción.",
+                "correcta": false
+            },
+            {
+                "texto": "Nivel único y multinivel.",
+                "correcta": false
+            },
+            {
+                "texto": "Múltiples líneas, vectorizadas y encuesta.",
+                "correcta": false
+            },
+            {
+                "texto": "Externa e interna.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes interrupciones es interna?",
+        "opciones": [
+            {
+                "texto": "Señal de reloj.",
+                "correcta": false
+            },
+            {
+                "texto": "En sistemas con múltiples procesadores, cuando uno de ellos interrumpe a otro para transmitirle un mensaje.",
+                "correcta": false
+            },
+            {
+                "texto": "Interrupción de programa recogidas en el seno de programa.",
+                "correcta": true
+            },
+            {
+                "texto": "Fallo de la tensión de alimentación del procesador.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué línea se utiliza para definir la tarea que debe llevar a cabo el dispositivo?",
+        "opciones": [
+            {
+                "texto": "Línea de control.",
+                "correcta": true
+            },
+            {
+                "texto": "Línea de referencia.",
+                "correcta": false
+            },
+            {
+                "texto": "Línea de alimentación.",
+                "correcta": false
+            },
+            {
+                "texto": "Línea de dirección.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué hace un controlador de interrupciones?",
+        "opciones": [
+            {
+                "texto": "Identifica la fuente de interrupción y establece las prioridades de cada periférico.",
+                "correcta": true
+            },
+            {
+                "texto": "Interrumpe a otras interrupciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Controla de forma independiente por las señales de petición de interrupción de cada periférico.",
+                "correcta": false
+            },
+            {
+                "texto": "Permite activar y desactivar las peticiones de interrupción de una forma selectiva.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es un canal selector?",
+        "opciones": [
+            {
+                "texto": "Estrategia a través de la que se roban ciclos cuando la CPU no está utilizando el bus del sistema.",
+                "correcta": false
+            },
+            {
+                "texto": "Estrategia que reduce el número de interfaces de E/S en el controlador de DMA a uno solo y simplifica la configuración.",
+                "correcta": false
+            },
+            {
+                "texto": "Un canal que gestiona múltiples dispositivos simultáneamente.",
+                "correcta": true
+            },
+            {
+                "texto": "Es un canal a través del cual múltiples dispositivos controlan de forma simultáneamente operaciones de E/S.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál es el lenguaje que utiliza un computador?",
+        "opciones": [
+            {
+                "texto": "Lenguaje binario.",
+                "correcta": false
+            },
+            {
+                "texto": "Lenguaje ensamblador.",
+                "correcta": false
+            },
+            {
+                "texto": "Lenguaje máquina.",
+                "correcta": true
+            },
+            {
+                "texto": "Lenguaje de alto nivel.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de estos elementos no forma parte de una instrucción?",
+        "opciones": [
+            {
+                "texto": "Orden de control.",
+                "correcta": true
+            },
+            {
+                "texto": "Código de operación.",
+                "correcta": false
+            },
+            {
+                "texto": "Referencia a operandos fuente.",
+                "correcta": false
+            },
+            {
+                "texto": "Referencia a la siguiente instrucción.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué longitud tienen las instrucciones en MIPS?",
+        "opciones": [
+            {
+                "texto": "64 bits.",
+                "correcta": false
+            },
+            {
+                "texto": "16 bits.",
+                "correcta": false
+            },
+            {
+                "texto": "Es variable.",
+                "correcta": false
+            },
+            {
+                "texto": "32 bits.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Para qué se utiliza el formato tipo R?",
+        "opciones": [
+            {
+                "texto": "Para realizar instrucciones con operandos intermedios.",
+                "correcta": false
+            },
+            {
+                "texto": "Para realizar transferencia de datos.",
+                "correcta": false
+            },
+            {
+                "texto": "Para realizar operaciones aritmético-lógicas.",
+                "correcta": true
+            },
+            {
+                "texto": "Para realizar operaciones de bifurcación.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Para qué sirve la llamada al sistema 10 en MIPS?",
+        "opciones": [
+            {
+                "texto": "Para imprimir un número entero.",
+                "correcta": false
+            },
+            {
+                "texto": "Para imprimir una cadena de caracteres.",
+                "correcta": false
+            },
+            {
+                "texto": "Para terminar un programa.",
+                "correcta": true
+            },
+            {
+                "texto": "Para imprimir un número de tipo flotante.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué directiva se utiliza en MIPS para escribir un número de 16 bits?",
+        "opciones": [
+            {
+                "texto": "word.",
+                "correcta": false
+            },
+            {
+                "texto": "byte.",
+                "correcta": false
+            },
+            {
+                "texto": "half.",
+                "correcta": true
+            },
+            {
+                "texto": "space.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué directiva se utiliza en MIPS para escribir una palabra?",
+        "opciones": [
+            {
+                "texto": "word.",
+                "correcta": true
+            },
+            {
+                "texto": "byte.",
+                "correcta": false
+            },
+            {
+                "texto": "half.",
+                "correcta": false
+            },
+            {
+                "texto": "space.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué registro tiene siempre un valor 0?",
+        "opciones": [
+            {
+                "texto": "$at.",
+                "correcta": false
+            },
+            {
+                "texto": "$ra.",
+                "correcta": false
+            },
+            {
+                "texto": "$t0.",
+                "correcta": false
+            },
+            {
+                "texto": "$zero.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué instrucción genera un 1 como resultado si los dos operandos son iguales?",
+        "opciones": [
+            {
+                "texto": "sge.",
+                "correcta": false
+            },
+            {
+                "texto": "seq.",
+                "correcta": true
+            },
+            {
+                "texto": "sgeu.",
+                "correcta": false
+            },
+            {
+                "texto": "sleu.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de estos nemotécnicos se utiliza en una instrucción de bifurcación condicional si ambos operandos son iguales?",
+        "opciones": [
+            {
+                "texto": "beq.",
+                "correcta": true
+            },
+            {
+                "texto": "beqz.",
+                "correcta": false
+            },
+            {
+                "texto": "b.",
+                "correcta": false
+            },
+            {
+                "texto": "ble.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué característica se debe tener en cuenta para optimizar el diseño del formato de las instrucciones?",
+        "opciones": [
+            {
+                "texto": "Las instrucciones específicas que emplea una máquina pueden estar diseñadas para utilizar tamaños diferentes.",
+                "correcta": true
+            },
+            {
+                "texto": "Todos los campos se incluyen en todas las instrucciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Las instrucciones tienen la misma longitud de los campos en todas las instrucciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Las instrucciones deben definirse como un conjunto de bits organizado en campos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué formato utiliza un acumulador?",
+        "opciones": [
+            {
+                "texto": "Formato de una instrucción de tres direcciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Formato de una instrucción de una dirección.",
+                "correcta": true
+            },
+            {
+                "texto": "Formato de una instrucción de cero direcciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Formato de una instrucción de dos direcciones.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué modo de direccionamiento realiza un desplazamiento de los datos sumado al contenido de un registro que se indica en la instrucción?",
+        "opciones": [
+            {
+                "texto": "Implícito.",
+                "correcta": false
+            },
+            {
+                "texto": "Relativo.",
+                "correcta": true
+            },
+            {
+                "texto": "Indexado.",
+                "correcta": false
+            },
+            {
+                "texto": "Directo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué modo de direccionamiento no tiene campo de dirección de la instrucción?",
+        "opciones": [
+            {
+                "texto": "Relativo.",
+                "correcta": false
+            },
+            {
+                "texto": "Directo.",
+                "correcta": false
+            },
+            {
+                "texto": "Inmediato.",
+                "correcta": false
+            },
+            {
+                "texto": "Implícito.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué fase de la instrucción se encarga de llevar a cabo la operación que indica la instrucción?",
+        "opciones": [
+            {
+                "texto": "Fase de ejecución de la instrucción.",
+                "correcta": true
+            },
+            {
+                "texto": "Fase de búsqueda de la instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Fase de búsqueda de los operandos.",
+                "correcta": false
+            },
+            {
+                "texto": "Fase de decodificación de la instrucción.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué fase de la instrucción se encarga de incrementar el contenido del contador del programa?",
+        "opciones": [
+            {
+                "texto": "Fase de búsqueda de los operandos.",
+                "correcta": false
+            },
+            {
+                "texto": "Fase de ejecución de la instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Fase de decodificación de la instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Fase de búsqueda de la instrucción.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es la CPU?",
+        "opciones": [
+            {
+                "texto": "Es un componente básico del computador que se encarga de llevar a cabo las instrucciones de un programa de forma secuencial.",
+                "correcta": true
+            },
+            {
+                "texto": "Es un dispositivo que utiliza para guardar una copia de algunas partes de la memoria principal.",
+                "correcta": false
+            },
+            {
+                "texto": "Es un elemento del computador que produce una dirección para realizar un acceso a una palabra concreta de un registro.",
+                "correcta": false
+            },
+            {
+                "texto": "Es la técnica clásica de diseño de circuitos secuenciales mediante puertas lógicas.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué tarea lleva a cabo la unidad de control?",
+        "opciones": [
+            {
+                "texto": "Busca las instrucciones en memoria y se encarga de su interpretación y la generación de las señales de control necesarias para llevar a cabo la operación especificada en la instrucción.",
+                "correcta": true
+            },
+            {
+                "texto": "Realiza todas las operaciones necesarias para llevar a cabo una instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Busca las órdenes en memoria y realiza todas las operaciones necesarias para llevar a cabo una instrucción.",
+                "correcta": false
+            },
+            {
+                "texto": "Procesa secuencialmente las instrucciones de la memoria.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué bloques no componen la unidad de control?",
+        "opciones": [
+            {
+                "texto": "Una unidad de procesamiento.",
+                "correcta": true
+            },
+            {
+                "texto": "Un registro de memorización del estado presente.",
+                "correcta": false
+            },
+            {
+                "texto": "Un bloque de cálculo de las salidas.",
+                "correcta": false
+            },
+            {
+                "texto": "Un bloque de cálculo del próximo estado.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué técnica de construcción es más económica?",
+        "opciones": [
+            {
+                "texto": "Ninguna de las respuestas es correcta.",
+                "correcta": false
+            },
+            {
+                "texto": "Realización cableada.",
+                "correcta": false
+            },
+            {
+                "texto": "Realización combinada.",
+                "correcta": false
+            },
+            {
+                "texto": "Realización microprogramada.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué tipo de computadores se utiliza la microprogramación?",
+        "opciones": [
+            {
+                "texto": "Computadores de tamaño medio.",
+                "correcta": true
+            },
+            {
+                "texto": "Computadores de tamaño grande.",
+                "correcta": false
+            },
+            {
+                "texto": "Computadores de tamaño pequeño.",
+                "correcta": false
+            },
+            {
+                "texto": "Computadores lentos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuándo se dice que un procesador está microprogramado?",
+        "opciones": [
+            {
+                "texto": "Cuando se diseña un procesador para que pueda ejecutar distintos juegos de instrucciones.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando los datos producidos por la unidad de control se almacenan en la memoria de control.",
+                "correcta": true
+            },
+            {
+                "texto": "Cuando el secuenciamiento de los microprogramas se lleva a cabo de forma implícita.",
+                "correcta": false
+            },
+            {
+                "texto": "Cuando el secuenciamiento de los microprogramas se lleva a cabo de forma explícita.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué tipo de secuenciamiento cada orden posee las microórdenes y la dirección de la microinstrucción siguiente?",
+        "opciones": [
+            {
+                "texto": "Implícito.",
+                "correcta": false
+            },
+            {
+                "texto": "Explícito.",
+                "correcta": true
+            },
+            {
+                "texto": "Indexado.",
+                "correcta": false
+            },
+            {
+                "texto": "Directo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué tipo de secuenciamiento las microinstrucciones se colocan de forma consecutiva en la memoria y se llevan a cabo en el mismo orden en que están almacenadas?",
+        "opciones": [
+            {
+                "texto": "Implícito.",
+                "correcta": true
+            },
+            {
+                "texto": "Explícito.",
+                "correcta": false
+            },
+            {
+                "texto": "Indexado.",
+                "correcta": false
+            },
+            {
+                "texto": "Directo.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cuál de las siguientes características no corresponde al modelo original de Wilkes?",
+        "opciones": [
+            {
+                "texto": "Las líneas verticales de la matriz C tienen que ser decodificadas.",
+                "correcta": true
+            },
+            {
+                "texto": "La longitud de la palabra de la memoria de control está representado por el número total de líneas verticales que tienen las matrices C y S.",
+                "correcta": false
+            },
+            {
+                "texto": "La inserción de las señales de condición tiene lugar entre la matriz de control C y la de secuencia S.",
+                "correcta": false
+            },
+            {
+                "texto": "El número de instrucciones que se pueden almacenar está representado por las líneas horizontales que parten del decodificador.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué es una microinstrucción?",
+        "opciones": [
+            {
+                "texto": "Es un conjunto de microórdenes que se pueden llevar a cabo simultáneamente y que está contenida en una palabra de la memoria de control.",
+                "correcta": true
+            },
+            {
+                "texto": "Es el dispositivo encargado de genera las microórdenes.",
+                "correcta": false
+            },
+            {
+                "texto": "Es la arquitectura básica de una unidad de control microprogramada.",
+                "correcta": false
+            },
+            {
+                "texto": "Es una serie ordenada de instrucciones que deben ser ejecutadas por la ruta de datos.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿De qué material estaba construido el modelo de Wilkes?",
+        "opciones": [
+            {
+                "texto": "Núcleos de ferrita.",
+                "correcta": true
+            },
+            {
+                "texto": "Transistores.",
+                "correcta": false
+            },
+            {
+                "texto": "Puertas digitales.",
+                "correcta": false
+            },
+            {
+                "texto": "Tubos de vacío.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Cómo se puede construir un secuenciador?",
+        "opciones": [
+            {
+                "texto": "Utilizando un contador digital.",
+                "correcta": true
+            },
+            {
+                "texto": "Utilizando un acumulador y un multiplexor.",
+                "correcta": false
+            },
+            {
+                "texto": "Utilizando una CPU.",
+                "correcta": false
+            },
+            {
+                "texto": "Utilizando un decodificador.",
+                "correcta": false
+            }
+        ]
+    },
+    {
+        "enunciado": "¿Qué nombre reciben la microprogramación basada en microórdenes codificadas?",
+        "opciones": [
+            {
+                "texto": "Microprogramación polifásica.",
+                "correcta": false
+            },
+            {
+                "texto": "Microprogramación monofásica.",
+                "correcta": false
+            },
+            {
+                "texto": "Microprogramación horizontal.",
+                "correcta": false
+            },
+            {
+                "texto": "Microprogramación vertical.",
+                "correcta": true
+            }
+        ]
+    },
+    {
+        "enunciado": "¿En qué tipo de microoperaciones es necesario incluir un contador de ciclos?",
+        "opciones": [
+            {
+                "texto": "En microoperaciones mixtas que no son ni puramente horizontales ni puramente verticales.",
+                "correcta": false
+            },
+            {
+                "texto": "En microoperaciones puramente horizontales.",
+                "correcta": false
+            },
+            {
+                "texto": "En microoperaciones puramente verticales.",
+                "correcta": false
+            },
+            {
+                "texto": "En microoperaciones que deben activarse secuencialmente a lo largo de más de un ciclo.",
+                "correcta": true
+            }
+        ]
+    }
+]

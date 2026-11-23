@@ -1,0 +1,12 @@
+[
+  {
+    "id": "redes",
+    "nombre": "Redes y Comunicaciones",
+    "archivo": "redes.json"
+  },
+  {
+    "id": "tecnoComp",
+    "nombre": "Tecnología de Computadores",
+    "archivo": "tecnologia_computadores.json"
+  }
+]

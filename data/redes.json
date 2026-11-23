@@ -1,0 +1,2900 @@
+[
+  {
+    "enunciado": "1. Selecciona la respuesta falsa respecto a las redes móviles",
+    "opciones": [
+      {
+        "texto": "Las redes 2G inicialmente no se pensaron para comunicación de datos",
+        "correcta": false
+      },
+      {
+        "texto": "Las redes 2G incluyeron posteriormente la conmutación de datos",
+        "correcta": false
+      },
+      {
+        "texto": "Las redes 3G son las primeras redes de banda ancha",
+        "correcta": false
+      },
+      {
+        "texto": "Las redes 4G son redes de ultra banda ancha, pero con tiempos de latencia grandes",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "2. SMTP es:",
+    "opciones": [
+      {
+        "texto": "Un protocolo que se utiliza para transferir ficheros entre dos máquinas",
+        "correcta": false
+      },
+      {
+        "texto": "Un protocolo que se utiliza para la configuración de dispositivos de enrutamiento en una red",
+        "correcta": false
+      },
+      {
+        "texto": "Un protocolo para la inspección de vulnerabilidades en una red",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "3. El protocolo HTTP/2 utiliza en las capas inferiores:",
+    "opciones": [
+      {
+        "texto": "DNS en capa de transporte y TCP/IP en capa de red",
+        "correcta": false
+      },
+      {
+        "texto": "UDP en capa de transporte e IP en capa de red",
+        "correcta": false
+      },
+      {
+        "texto": "TCP en capa de transporte e IP en capa de red",
+        "correcta": true
+      },
+      {
+        "texto": "Todas son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. La capa de transporte",
+    "opciones": [
+      {
+        "texto": "Hace posible la comunicación entre dos máquinas, gestionando la conmutación de paquetes en la red",
+        "correcta": false
+      },
+      {
+        "texto": "Utiliza los puertos de la capa de enlace",
+        "correcta": false
+      },
+      {
+        "texto": "Hace posible la comunicación entre procesos situados, normalmente, en máquinas distintas",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. UDP posee mecanismos para:",
+    "opciones": [
+      {
+        "texto": "Control de flujo",
+        "correcta": false
+      },
+      {
+        "texto": "Recuperación de errores",
+        "correcta": false
+      },
+      {
+        "texto": "Control de congestión",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "6. La técnica de conmutación que establece previamente una conexión entre origen y destino; y que utiliza la misma ruta para el transporte de manera exclusiva se denomina",
+    "opciones": [
+      {
+        "texto": "Conmutación de paquetes",
+        "correcta": false
+      },
+      {
+        "texto": "Conmutación directa",
+        "correcta": false
+      },
+      {
+        "texto": "Conmutación de circuitos",
+        "correcta": true
+      },
+      {
+        "texto": "Multiplexación directa",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "7. En la trama de la capa de enlace, el campo que contiene datos de control sumados al final de la trama que sirven para generar una estructura de comunicación, se denomina:",
+    "opciones": [
+      {
+        "texto": "Datos",
+        "correcta": false
+      },
+      {
+        "texto": "Tráiler",
+        "correcta": true
+      },
+      {
+        "texto": "Encabezado",
+        "correcta": false
+      },
+      {
+        "texto": "Protocol Ending Checksum",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. La topología de red en la que un solo cableado conecta todos los elementos se denomina:",
+    "opciones": [
+      {
+        "texto": "Topología en estrella",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en malla",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en bus",
+        "correcta": true
+      },
+      {
+        "texto": "Topología en árbol",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "9. Un dispositivo que actúa como puente multipuerto que procesa y reenvía datos a nivel de capa de enlace, es un:",
+    "opciones": [
+      {
+        "texto": "Repetidor",
+        "correcta": false
+      },
+      {
+        "texto": "Switch",
+        "correcta": true
+      },
+      {
+        "texto": "Hub",
+        "correcta": false
+      },
+      {
+        "texto": "Bridge",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "10. La máscara de subred:",
+    "opciones": [
+      {
+        "texto": "Permite filtrar las tramas a nivel de enlace",
+        "correcta": false
+      },
+      {
+        "texto": "Permite identificar qué parte de la dirección IP identifica a la red y qué parte identifica al equipo",
+        "correcta": true
+      },
+      {
+        "texto": "Permite realizar direccionamiento inverso",
+        "correcta": false
+      },
+      {
+        "texto": "Es la dirección IP del router al que está contectado el dispositivo",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "11. Los requisitos que debe cumplir un sistema para considerarse seguro son:",
+    "opciones": [
+      {
+        "texto": "Confidencialidad y Disponibilidad",
+        "correcta": false
+      },
+      {
+        "texto": "Confidencialidad, Privacidad y Ocultamiento de la información",
+        "correcta": false
+      },
+      {
+        "texto": "Confidencialidad, Integridad, Disponibilidad, Autenticación, No repudio",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "12. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando su clave privada logrará confidencialidad en el envío",
+        "correcta": false
+      },
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando la clave pública del receptor logrará confidencialidad en el envío",
+        "correcta": true
+      },
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando su clave pública, cualquiera podrá descifrar su mensaje",
+        "correcta": false
+      },
+      {
+        "texto": "El emisor debe transmitir su clave privada al receptor para que éste pueda descifrar los mensajes recibidos",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "1. Los componentes de un sistema de comunicación de datos son:",
+    "opciones": [
+      {
+        "texto": "Emisor, receptor, mensaje",
+        "correcta": false
+      },
+      {
+        "texto": "Emisor, transmisor, receptor, mensaje",
+        "correcta": false
+      },
+      {
+        "texto": "Emisor, medio de transmisión, mensaje, receptor",
+        "correcta": false
+      },
+      {
+        "texto": "Emisor, medio de transmisión, mensaje, receptor, protocolo",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "2. El sistema DNS puede proporcionar servicios de:",
+    "opciones": [
+      {
+        "texto": "Alias de host, balanceado de carga y envío de correos electrónicos",
+        "correcta": false
+      },
+      {
+        "texto": "Balanceado de carga, traducción ARP",
+        "correcta": false
+      },
+      {
+        "texto": "Alias de host, alias de servidor de correo electrónico y balanceado de carga",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. El método HEAD de HTTP",
+    "opciones": [
+      {
+        "texto": "Permite obtener información sobre el recurso solicitado, sin llegar a transferir el propio recurso",
+        "correcta": true
+      },
+      {
+        "texto": "Permite indicar una solicitud estándar con la posibilidad de enviar una cantidad limitada de información al servidor",
+        "correcta": false
+      },
+      {
+        "texto": "Permite indicar una solicitud estándar con la posibilidad de enviar una cantidad ilimitada de información al servidor",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. Los puertos registrados (registered):",
+    "opciones": [
+      {
+        "texto": "Son oficialmente asignados por la IANA y van del 0 al 1023",
+        "correcta": false
+      },
+      {
+        "texto": "Pueden ser registrados con el propósito de evitar la aparición de duplicados y van del 1024 al 49151",
+        "correcta": true
+      },
+      {
+        "texto": "Los puede usar cualquier proceso y van del 49152 al 65535",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "6. IP es un protocolo de",
+    "opciones": [
+      {
+        "texto": "Nivel de red",
+        "correcta": true
+      },
+      {
+        "texto": "Nivel de transporte",
+        "correcta": false
+      },
+      {
+        "texto": "Nivel de enlace",
+        "correcta": false
+      },
+      {
+        "texto": "Nivel de aplicación",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "7. La subcapa superior del nivel de enlace, que se encarga de incluir información en la trama que identifica qué protocolo de capa de red se está utilizando, se denomina:",
+    "opciones": [
+      {
+        "texto": "Control de lógica de acceso (ALC)",
+        "correcta": false
+      },
+      {
+        "texto": "Control de acceso al medio (MAC)",
+        "correcta": false
+      },
+      {
+        "texto": "Control de enlace lógico (LLC)",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. La topología de red en la que los elementos de la red se disponen de forma jerárquica, utilizando normalmente conmutadores, y pueden existir enlaces punto a punto entre dichos elementos de interconexión, se denomina:",
+    "opciones": [
+      {
+        "texto": "Topología en estrella",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en malla",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en bus",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en árbol",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "9. La Dirección IP 212.128.14.115 es una dirección de tipo:",
+    "opciones": [
+      {
+        "texto": "Clase A",
+        "correcta": false
+      },
+      {
+        "texto": "Clase B",
+        "correcta": false
+      },
+      {
+        "texto": "Clase C",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "10. Cuando un atacante inyecta información en el canal, bien haciéndose pasar por otro usuario (suplantación) o bien reenviando información anteriormente capturada (ataque de repetición), se está hablando de un ataque por:",
+    "opciones": [
+      {
+        "texto": "Interceptación",
+        "correcta": false
+      },
+      {
+        "texto": "Modificación",
+        "correcta": false
+      },
+      {
+        "texto": "Interrupción",
+        "correcta": false
+      },
+      {
+        "texto": "Fabricación",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "11. Selecciona la falsa respecto a IP ESP:",
+    "opciones": [
+      {
+        "texto": "La estructura de ESP consta de una parte no cifrada y otra parte cifrada",
+        "correcta": false
+      },
+      {
+        "texto": "Se puede usar para cifrar un paquete a nivel de transporte (TCP o UDP)",
+        "correcta": false
+      },
+      {
+        "texto": "Se puede utilizar en modo transporte o en modo túnel",
+        "correcta": false
+      },
+      {
+        "texto": "Es un protocolo a nivel de enlace",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "12. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando su clave privada logrará confidencialidad en el envío",
+        "correcta": false
+      },
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando su clave privada logrará autenticar su envío",
+        "correcta": true
+      },
+      {
+        "texto": "Si un emisor cifra el mensaje utilizando su clave pública, cualquiera podrá descifrar su mensaje",
+        "correcta": false
+      },
+      {
+        "texto": "El emisor debe transmitir su clave privada al receptor para que éste pueda descifrar los mensajes recibidos",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "1. Selecciona la respuesta correcta relativa al flujo de datos full-duplex:",
+    "opciones": [
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información, pero nunca a la vez.",
+        "correcta": false
+      },
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información simultáneamente",
+        "correcta": true
+      },
+      {
+        "texto": "Únicamente el emisor puede emitir información",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las respuestas anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "2. Las arquitecturas en las que la comunicación se puede realizar entre distintos dispositivos, siguiendo un modelo mallado, sin necesidad de depender de servidores específicos que deban estar presentes, se denominan:",
+    "opciones": [
+      {
+        "texto": "Cliente-servidor",
+        "correcta": false
+      },
+      {
+        "texto": "P2P",
+        "correcta": true
+      },
+      {
+        "texto": "API",
+        "correcta": false
+      },
+      {
+        "texto": "R2S",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. El método GET de HTTP",
+    "opciones": [
+      {
+        "texto": "Permite obtener información sobre el recurso solicitado, sin llegar a transferir el propio recurso",
+        "correcta": false
+      },
+      {
+        "texto": "Permite indicar una solicitud estándar con la posibilidad de enviar una cantidad limitada de información al servidor",
+        "correcta": true
+      },
+      {
+        "texto": "Permite indicar una solicitud estándar con la posibilidad de enviar una cantidad ilimitada de información al servidor",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. Los puertos dinámicos (dynamic):",
+    "opciones": [
+      {
+        "texto": "Son oficialmente asignados por la IANA y van del 0 al 1023",
+        "correcta": false
+      },
+      {
+        "texto": "Pueden ser registrados con el propósito de evitar la aparición de duplicados y van del 1024 al 49151",
+        "correcta": false
+      },
+      {
+        "texto": "Los puede usar cualquier proceso y van del 49152 al 65535",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "6. Selecciona la falsa:",
+    "opciones": [
+      {
+        "texto": "IP es un protocolo que se encarga del encaminamiento de los datos en la red",
+        "correcta": false
+      },
+      {
+        "texto": "IP proporciona un servicio orientado a conexión",
+        "correcta": true
+      },
+      {
+        "texto": "IP no implementa mecanismos de control de errores",
+        "correcta": false
+      },
+      {
+        "texto": "IP no implementa mecanismos de control de flujo",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "7. La subcapa inferior del nivel de enlace, que se encarga de, entre otras cosas, controlar el acceso al medio físico de la transmisión, se denomina:",
+    "opciones": [
+      {
+        "texto": "Control de lógica de acceso (ALC)",
+        "correcta": false
+      },
+      {
+        "texto": "Control de acceso al medio (MAC)",
+        "correcta": true
+      },
+      {
+        "texto": "Control de enlace lógico (LLC)",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. La topología de red en la que todos los elementos se conectan con enlaces punto a punto a un dispositivo de interconexión central, se denomina:",
+    "opciones": [
+      {
+        "texto": "Topología en estrella",
+        "correcta": true
+      },
+      {
+        "texto": "Topología en malla",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en bus",
+        "correcta": false
+      },
+      {
+        "texto": "Topología en árbol",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "9. La Dirección IP 5.105.25.69 es una dirección de tipo:",
+    "opciones": [
+      {
+        "texto": "Clase A",
+        "correcta": true
+      },
+      {
+        "texto": "Clase B",
+        "correcta": false
+      },
+      {
+        "texto": "Clase C",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "10. La máscara de subred de la dirección 180.9.1.3/16 es:",
+    "opciones": [
+      {
+        "texto": "255.0.0.0",
+        "correcta": false
+      },
+      {
+        "texto": "255.255.255.0",
+        "correcta": false
+      },
+      {
+        "texto": "255.255.0.0",
+        "correcta": true
+      },
+      {
+        "texto": "255.255.0.128",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "12. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "Los sistemas de clave asimétrica utilizan la misma clave para cifrar y descifrar",
+        "correcta": false
+      },
+      {
+        "texto": "Los sistemas de clave simétrica tienen dos claves: una para el emisor y otra distinta para el receptor",
+        "correcta": false
+      },
+      {
+        "texto": "Los sistemas de clave asimétrica trabajan con una pareja de claves: una para cifrar el mensaje y otra para descifrarlo",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "2. El protocolo FTP:",
+    "opciones": [
+      {
+        "texto": "Permite el intercambio de ficheros entre dos máquinas",
+        "correcta": true
+      },
+      {
+        "texto": "No permite el manejo de una estructura de carpetas en la máquina remota",
+        "correcta": false
+      },
+      {
+        "texto": "No permite la posibilidad de añadir medidas de autenticación",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las respuestas son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "3. El sistema DNS:",
+    "opciones": [
+      {
+        "texto": "Es una base de datos distribuida que contiene direcciones MAC y direcciones IP; y un protocolo para consultar la base de datos",
+        "correcta": false
+      },
+      {
+        "texto": "Es una base de datos distribuida que contiene direcciones IP y nombres de dominio",
+        "correcta": false
+      },
+      {
+        "texto": "Es una base de datos local y exclusiva de cada sistema operativo que tiene direcciones IP y nombres de dominio; y un protocolo para consultar la base de datos",
+        "correcta": false
+      },
+      {
+        "texto": "Es una base de datos distribuida que contiene direcciones IP y nombres de dominio; y un protocolo para consultar la base de datos",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "4. Selecciona la falsa respecto al protocolo HTTP:",
+    "opciones": [
+      {
+        "texto": "El protocolo HTTP está basado en un simple mecanismo de solicitud y respuesta",
+        "correcta": false
+      },
+      {
+        "texto": "Cada objeto que se transfiere por la red se realiza por una conexión independiente",
+        "correcta": false
+      },
+      {
+        "texto": "HTTP es un protocolo de transmisión sin estado",
+        "correcta": false
+      },
+      {
+        "texto": "En HTTP/1.0 nunca se libera la conexión",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "8. Los algoritmos de encaminamiento a nivel de red que se basan en que cada nodo es el responsable de calcular sus propias tablas usando únicamente información local se denominan:",
+    "opciones": [
+      {
+        "texto": "Algoritmos de encaminamiento centralizados",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de encaminamiento aislados",
+        "correcta": true
+      },
+      {
+        "texto": "Algoritmos de encaminamiento distribuidos",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de encaminamiento jerárquicos",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "9. En la trama de la capa de enlace, el campo que contiene información de control como direccionamiento y aparece al inicio de la trama, se denomina:",
+    "opciones": [
+      {
+        "texto": "Datos",
+        "correcta": false
+      },
+      {
+        "texto": "Encabezado",
+        "correcta": true
+      },
+      {
+        "texto": "Tráiler",
+        "correcta": false
+      },
+      {
+        "texto": "Protocol Routing Address",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "10. Los protocolos de control de acceso al medio con acceso aleatorio:",
+    "opciones": [
+      {
+        "texto": "Son los protocolos de sondeo o polling, entre otros",
+        "correcta": false
+      },
+      {
+        "texto": "Son los que dividen el canal en distintas frecuencias, instantes de tiempo o código se denominan",
+        "correcta": false
+      },
+      {
+        "texto": "Son aquellos donde cada nodo intenta transmitir y si hay colisión con otras transmisiones, espera un tiempo aleatorio antes de retransmitir",
+        "correcta": true
+      },
+      {
+        "texto": "Son aquellos que funcionan en base al paso de testigo",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "12. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "Una topología de malla completa necesitará siempre 2*N enlaces punto a punto",
+        "correcta": false
+      },
+      {
+        "texto": "No se pueden mezclar redes con diferente topología",
+        "correcta": false
+      },
+      {
+        "texto": "Una red puede tener una topología física distinta a la topología lógica",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna es cierta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "14. Cuando se impide la comunicación inutilizando el sistema, bien atacando el canal de comunicación, bien a los sistemas que intervienen en ella, atacando por tanto a su disponibilidad, se está hablando de un ataque por:",
+    "opciones": [
+      {
+        "texto": "Interceptación",
+        "correcta": false
+      },
+      {
+        "texto": "Modificación",
+        "correcta": false
+      },
+      {
+        "texto": "Interrupción",
+        "correcta": true
+      },
+      {
+        "texto": "Fabricación",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "1. Cuando el contenido de la información en tránsito no debe estar accesible a terceras personas es",
+    "opciones": [
+      {
+        "texto": "Confidencialidad",
+        "correcta": true
+      },
+      {
+        "texto": "Integridad",
+        "correcta": false
+      },
+      {
+        "texto": "No repudio",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "2. Un puente o bridge",
+    "opciones": [
+      {
+        "texto": "Opera a nivel de la capa física (1 del modelo OSI)",
+        "correcta": false
+      },
+      {
+        "texto": "Permite crear un único dominio de colisión",
+        "correcta": false
+      },
+      {
+        "texto": "Un ejemplo de dispositivo puente son los concentradores o hubs",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "3. Los mensajes de solicitud DHCP",
+    "opciones": [
+      {
+        "texto": "Se transportan mediante UDP",
+        "correcta": true
+      },
+      {
+        "texto": "Viajan en un datagrama IP con la dirección IP de destino del router de conexión a Internet de nuestra red local",
+        "correcta": false
+      },
+      {
+        "texto": "Viajan en un datagrama IP con la dirección IP origen del servidor DNS",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. Cuando se utiliza el protocolo HTTP",
+    "opciones": [
+      {
+        "texto": "El servidor ha de usar siempre el puerto 80 en la máquina destino, si lo hace en el puerto 8080, dejará de estar accesible para los clientes",
+        "correcta": false
+      },
+      {
+        "texto": "El servidor reconoce cuando un cliente le ha solicitado anteriormente el mismo archivo",
+        "correcta": false
+      },
+      {
+        "texto": "El servidor envía los archivos solicitados al cliente almacenando la información del estado del cliente",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "5. Acerca de los servicios de entrega fiable de la capa de enlace",
+    "opciones": [
+      {
+        "texto": "Se suelen usar para enlaces cableados, que tienen una baja tasa de errores de bit",
+        "correcta": false
+      },
+      {
+        "texto": "Están siempre activados, y no existen protocolos de enlace no fiables",
+        "correcta": false
+      },
+      {
+        "texto": "Sólo se pueden usar si a nivel de transporte (por ej. TCP) utiliza un servicio fiable",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "6. En el encaminamiento desde el origen",
+    "opciones": [
+      {
+        "texto": "Son las estaciones finales y no los nodos intermedios quienes deben establecer la ruta de transmisión",
+        "correcta": true
+      },
+      {
+        "texto": "Se calcula desde la estación origen la ruta óptima de forma estática, realizando difusión de mensajes únicamente al primer nivel de nodos conectados a la misma",
+        "correcta": false
+      },
+      {
+        "texto": "Se establece la ruta desde la estación origen, sin necesidad de realizar la técnica de difusión de mensajes por inundación de la red",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "7. Un Punto de Acceso WiFi",
+    "opciones": [
+      {
+        "texto": "Actúa como puente (bridge) transparente entre redes 802.11 y 802.3",
+        "correcta": true
+      },
+      {
+        "texto": "Sólo admite una única conexión de un dispositivo, para extender su cobertura WiFi",
+        "correcta": false
+      },
+      {
+        "texto": "Funciona como pasarela o Gateway, operando en los niveles 4 a 7 de OSI",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. En términos generales, un ISP es",
+    "opciones": [
+      {
+        "texto": "Es un proveedor que proporciona a los usuarios la conexión a Internet",
+        "correcta": true
+      },
+      {
+        "texto": "Es un mecanismo para el control de virus en Internet",
+        "correcta": false
+      },
+      {
+        "texto": "Un protocolo, Internet Silent Protocol, para la navegación oculta o en modo incógnito por Internet",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "9. En el establecimiento de conexión en TCP",
+    "opciones": [
+      {
+        "texto": "Se sigue un mecanismo de negociación de cuatro vías o etapas",
+        "correcta": false
+      },
+      {
+        "texto": "Es innecesario negociar entre las dos partes; un proceso siempre estará listo para recibir información de cualquier otro proceso",
+        "correcta": false
+      },
+      {
+        "texto": "Es innecesario negociar entre las dos partes; cuando un proceso desea comunicarse con otro, envía de inmediato su información",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "10. A nivel de conexiones, el protocolo FTP",
+    "opciones": [
+      {
+        "texto": "Usa dos conexiones TCP paralelas para transferir un archivo",
+        "correcta": true
+      },
+      {
+        "texto": "Usa una única conexión TCP para transferir un archivo",
+        "correcta": false
+      },
+      {
+        "texto": "Utiliza múltiples conexiones UDP para transferir un archivo",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es cierta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "3. Los acuses de recibo (\"ACKs\")",
+    "opciones": [
+      {
+        "texto": "Consumen un importante ancho de banda en el proceso de comunicación",
+        "correcta": false
+      },
+      {
+        "texto": "Se utilizan en UDP para la confirmación de la recepción de datagramas",
+        "correcta": false
+      },
+      {
+        "texto": "Se utilizan en UDP para la confirmación de la recepción de segmentos",
+        "correcta": false
+      },
+      {
+        "texto": "Se utilizan en TCP para la confirmación de la recepción de segmentos",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "5. En la criptografía de clave pública",
+    "opciones": [
+      {
+        "texto": "Cada interlocutor posee dos claves",
+        "correcta": true
+      },
+      {
+        "texto": "Cada interlocutor posee la clave secreta del otro",
+        "correcta": false
+      },
+      {
+        "texto": "Se utiliza la misma clave para cifrar que para descifrar",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "6. Se define un \"socket\" como",
+    "opciones": [
+      {
+        "texto": "Una medida del rendimiento de un canal de datos a nivel de aplicación en el modelo OSI",
+        "correcta": false
+      },
+      {
+        "texto": "Una medida de protección, en la que se envuelven los datos para evitar su inspección por partes no autorizadas durante su transmisión",
+        "correcta": false
+      },
+      {
+        "texto": "Una interfaz software que permite a los procesos de un Sistema Operativo enviar y recibir mensajes a/de la red",
+        "correcta": true
+      },
+      {
+        "texto": "Un enchufe al que se conecta un ordenador a una red mediante un conector RJ-455",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "1. ¿Cuál es la dirección de multidifusión MAC?",
+    "opciones": [
+      {
+        "texto": "6 bytes con valor 255",
+        "correcta": false
+      },
+      {
+        "texto": "48 bits a uno binario",
+        "correcta": false
+      },
+      {
+        "texto": "FF-FF-FF-FF-FF-FF",
+        "correcta": false
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "2. Aquella topología donde se disponen los elementos de una forma jerárquica es una topología...",
+    "opciones": [
+      {
+        "texto": "Árbol",
+        "correcta": true
+      },
+      {
+        "texto": "Malla",
+        "correcta": false
+      },
+      {
+        "texto": "Estrella",
+        "correcta": false
+      },
+      {
+        "texto": "Bus",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "6. IPv4...",
+    "opciones": [
+      {
+        "texto": "Es un protocolo best effort",
+        "correcta": true
+      },
+      {
+        "texto": "Su cabecera es de 128 bits",
+        "correcta": false
+      },
+      {
+        "texto": "Es un servicio orientado a la conexión",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. Son características deseables de un algoritmo de encaminamiento:",
+    "opciones": [
+      {
+        "texto": "La principal es obtener en todo momento, y de forma dinámica, el máximo ancho de banda en la transmisión",
+        "correcta": false
+      },
+      {
+        "texto": "Incrementar en la medida de lo posible el número de saltos en la red",
+        "correcta": false
+      },
+      {
+        "texto": "Incrementar en la medida de lo posible la latencia de la comunicación en los nodos intermedios",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "2. Selecciona la respuesta correcta relativa al flujo de datos semidúplex:",
+    "opciones": [
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información, pero nunca a la vez.",
+        "correcta": true
+      },
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información simultáneamente",
+        "correcta": false
+      },
+      {
+        "texto": "Únicamente el emisor puede emitir información",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las respuestas anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. Un socket:",
+    "opciones": [
+      {
+        "texto": "Es un proceso que permite la comunicación entre dos puertos de una misma máquina",
+        "correcta": false
+      },
+      {
+        "texto": "Es un elemento físico que tiene una tarjeta de red que permite la comunicación con otras máquinas",
+        "correcta": false
+      },
+      {
+        "texto": "Es una abstracción que representa, en una máquina local, la conexión con otra máquina",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "15. Un dispositivo que opera en la capa física y que solo regenera la señal recibida para poder transmitir los datos codificados en esa señal a mayor distancia es un:",
+    "opciones": [
+      {
+        "texto": "Repetidor",
+        "correcta": true
+      },
+      {
+        "texto": "Switch",
+        "correcta": false
+      },
+      {
+        "texto": "Hub",
+        "correcta": false
+      },
+      {
+        "texto": "Bridge",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "16. La Dirección IP 145.39.132.178 es una dirección de tipo:",
+    "opciones": [
+      {
+        "texto": "Clase A",
+        "correcta": false
+      },
+      {
+        "texto": "Clase B",
+        "correcta": true
+      },
+      {
+        "texto": "Clase C",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "1. Selecciona la respuesta correcta relativa al flujo de datos simplex:",
+    "opciones": [
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información, pero nunca a la vez.",
+        "correcta": false
+      },
+      {
+        "texto": "Emisor y receptor pueden emitir y recibir información simultáneamente",
+        "correcta": false
+      },
+      {
+        "texto": "Únicamente el emisor puede emitir información",
+        "correcta": true
+      },
+      {
+        "texto": "Ninguna de las respuestas anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "4. Los puertos bien conocidos (well-known):",
+    "opciones": [
+      {
+        "texto": "Son oficialmente asignados por la IANA y van del 0 al 1023",
+        "correcta": true
+      },
+      {
+        "texto": "Pueden ser registrados con el propósito de evitar la aparición de duplicados y van del 1024 al 49151",
+        "correcta": false
+      },
+      {
+        "texto": "Los puede usar cualquier proceso y van del 49152 al 65535",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. La técnica de conmutación que divide la información en fragmentos sin establecer una conexión previa entre origen y destino",
+    "opciones": [
+      {
+        "texto": "Conmutación de paquetes mediante datagramas",
+        "correcta": true
+      },
+      {
+        "texto": "Conmutación de paquetes por circuitos virtuales",
+        "correcta": false
+      },
+      {
+        "texto": "Conmutación de circuitos",
+        "correcta": false
+      },
+      {
+        "texto": "Multiplexación directa",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "6. Los algoritmos de encaminamiento a nivel de red que se basan en que cada nodo es responsable de calcular y actualizar sus propias tablas de encaminamiento y para ello intercambia información con sus nodos vecinos se denominan:",
+    "opciones": [
+      {
+        "texto": "Algoritmos de encaminamiento centralizados",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de encaminamiento aislados",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de encaminamiento distribuidos",
+        "correcta": true
+      },
+      {
+        "texto": "Algoritmos de encaminamiento jerárquicos",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. Selecciona la verdadera respecto al protocolo de resolución de direcciones, ARP.",
+    "opciones": [
+      {
+        "texto": "La Tabla ARP sólo se actualiza cuando se recibe la orden ACKUPDATE desde el controlador central de la red",
+        "correcta": false
+      },
+      {
+        "texto": "El protocolo ARP puede traducir entre direcciones MAC y nombres de dominio",
+        "correcta": false
+      },
+      {
+        "texto": "El protocolo ARP es un protocolo de nivel de aplicación, como el protocolo DNS",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es cierta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "11. La característica de No Repudio de una comunicación implica:",
+    "opciones": [
+      {
+        "texto": "El firewall del receptor no puede bloquear este tipo de paquetes",
+        "correcta": false
+      },
+      {
+        "texto": "El cifrado permite leer la información en el tránsito",
+        "correcta": false
+      },
+      {
+        "texto": "Se ha de dejar constancia de que ambas partes (emisor y receptor) han intervenido en la comunicación",
+        "correcta": true
+      },
+      {
+        "texto": "El receptor puede negar haber recibido el mensaje, pero el emisor no puede negar haberlo enviado",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "2. Selecciona la respuesta verdadera",
+    "opciones": [
+      {
+        "texto": "El uso de WiMAX se encuadra dentro de las redes WMAN.",
+        "correcta": true
+      },
+      {
+        "texto": "El uso de Bluetooth se encuadra dentro de las redes LAN",
+        "correcta": false
+      },
+      {
+        "texto": "El uso de redes móviles (2G, 3G, 4G, etc ) se encuadra dentro de las redes WLAN",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna de las anteriores es correcta",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. Selecciona la falsa",
+    "opciones": [
+      {
+        "texto": "UDP es un protocolo no orientado a conexión y no fiable",
+        "correcta": false
+      },
+      {
+        "texto": "Los paquetes de UDP se denominan datagramas",
+        "correcta": false
+      },
+      {
+        "texto": "Los paquetes de UDP se envían ordenados y con numeración",
+        "correcta": true
+      },
+      {
+        "texto": "La cabecera UDP incluye información sobre los puertos de origen y destino",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "10. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "Las direcciones IPv4 son de 16 bits",
+        "correcta": false
+      },
+      {
+        "texto": "Las direcciones de IPv4 son de 32 bits",
+        "correcta": true
+      },
+      {
+        "texto": "Las direcciones de IPv6 son de 16 bits",
+        "correcta": false
+      },
+      {
+        "texto": "Las direcciones de IPv6 son de 32 bits",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "12. Selecciona la verdadera:",
+    "opciones": [
+      {
+        "texto": "La capa de enlace de datos no puede corregir errores",
+        "correcta": false
+      },
+      {
+        "texto": "La detección de errores se puede realizar sin introducir bits adicionales en la trama",
+        "correcta": false
+      },
+      {
+        "texto": "Los bits de paridad se utilizan para la detección y corrección de errores",
+        "correcta": false
+      },
+      {
+        "texto": "Ninguna es cierta",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "16. La máscara de subred por defecto de las direcciones IP de Clase A es:",
+    "opciones": [
+      {
+        "texto": "255.0.0.0",
+        "correcta": true
+      },
+      {
+        "texto": "255.255.0.0",
+        "correcta": false
+      },
+      {
+        "texto": "255.255.255.0",
+        "correcta": false
+      },
+      {
+        "texto": "255.255.255.255",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "18. Cuando un atacante no autorizado accede a la información que circula por el canal sin modificarla y ataca la confidencialidad de los datos, se está hablando de un ataque por:",
+    "opciones": [
+      {
+        "texto": "Interceptación",
+        "correcta": true
+      },
+      {
+        "texto": "Modificación",
+        "correcta": false
+      },
+      {
+        "texto": "Interrupción",
+        "correcta": false
+      },
+      {
+        "texto": "Fabricación",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. Selecciona la respuesta falsa respecto a una petición HTTP:",
+    "opciones": [
+      {
+        "texto": "URI es una especificación inequívoca del recurso que se solicita en un servidor",
+        "correcta": false
+      },
+      {
+        "texto": "El código de estado indica el resultado de una solicitud",
+        "correcta": false
+      },
+      {
+        "texto": "En una solicitud no se puede especificar el formato de la información que se espera recibir",
+        "correcta": true
+      },
+      {
+        "texto": "En la respuesta se permite una cadena de texto con información descriptiva del resultado",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "11. Selecciona la falsa:",
+    "opciones": [
+      {
+        "texto": "La dirección MAC es -al menos en principio- única y permanente para cada adaptador de red",
+        "correcta": false
+      },
+      {
+        "texto": "Las direcciones MAC no tienen dirección de difusión",
+        "correcta": true
+      },
+      {
+        "texto": "Se pueden traducir direcciones MAC a IP utilizando el protocolo ARP",
+        "correcta": false
+      },
+      {
+        "texto": "La dirección MAC de destino se introduce en la trama",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "5. Si un programa a nivel aplicación necesita fiabilidad",
+    "opciones": [
+      {
+        "texto": "A. Si usa protocolos de transporte sin control de flujo y errores nunca será posible proporcionar esa fiabilidad",
+        "correcta": false
+      },
+      {
+        "texto": "B. Se utiliza un protocolo de transporte en el que prime la velocidad de servicio",
+        "correcta": false
+      },
+      {
+        "texto": "C. Se utiliza un protocolo de transporte en el que prime la seguridad del servicio",
+        "correcta": false
+      },
+      {
+        "texto": "D. Se utiliza un protocolo de transporte que implemente control de flujo y de errores a nivel de tranporte",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "6. En conmutación de paquetes mediante circuitos virtuales",
+    "opciones": [
+      {
+        "texto": "A. Si un nodo o línea falla, la comunicación falla",
+        "correcta": true
+      },
+      {
+        "texto": "B. Su latencia es adecuada para aplicaciones interactivas y en tiempo real",
+        "correcta": false
+      },
+      {
+        "texto": "C. El ancho de banda se usa de forma estática, con un circuito dedicado",
+        "correcta": false
+      },
+      {
+        "texto": "D. Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "7. Un elemento de interconexión que opera en el nivel físico de OSI es...",
+    "opciones": [
+      {
+        "texto": "A. switch",
+        "correcta": false
+      },
+      {
+        "texto": "B. router",
+        "correcta": false
+      },
+      {
+        "texto": "C. hub",
+        "correcta": true
+      },
+      {
+        "texto": "D. bridge",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "8. En una arquitectura P2P:",
+    "opciones": [
+      {
+        "texto": "A. Los elementos denominados pares (peers) son propiedad del proveedor del servicio",
+        "correcta": false
+      },
+      {
+        "texto": "B. Las comunicaciones son directas entre pares y no pasan por host dedicados",
+        "correcta": true
+      },
+      {
+        "texto": "C. Toda la capacidad de control y de encaminamiento se encuentra en un nodo central de la red",
+        "correcta": false
+      },
+      {
+        "texto": "D. Todas las anteriores son correctas",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál será la afirmación falsa?",
+    "opciones": [
+      {
+        "texto": "Las redes WLAN son inalámbricas y de alcance local.",
+        "correcta": false
+      },
+      {
+        "texto": "Las redes LAN son siempre inalámbricas.",
+        "correcta": true
+      },
+      {
+        "texto": "Bluetooth es un ejemplo de red WAN.",
+        "correcta": false
+      },
+      {
+        "texto": "Una MAN cubre un área metropolitana.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo está diseñado para la transferencia de archivos con control de sesión?",
+    "opciones": [
+      {
+        "texto": "HTTP",
+        "correcta": false
+      },
+      {
+        "texto": "FTP",
+        "correcta": true
+      },
+      {
+        "texto": "SMTP",
+        "correcta": false
+      },
+      {
+        "texto": "DNS",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo se usa para el envío de correo entre servidores?",
+    "opciones": [
+      {
+        "texto": "POP3",
+        "correcta": false
+      },
+      {
+        "texto": "IMAP",
+        "correcta": false
+      },
+      {
+        "texto": "SMTP",
+        "correcta": true
+      },
+      {
+        "texto": "HTTP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo permite mantener los correos en el servidor?",
+    "opciones": [
+      {
+        "texto": "POP3",
+        "correcta": false
+      },
+      {
+        "texto": "IMAP",
+        "correcta": true
+      },
+      {
+        "texto": "SMTP",
+        "correcta": false
+      },
+      {
+        "texto": "FTP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué modo de FTP implica que el servidor inicia la sesión de datos hacia el cliente?",
+    "opciones": [
+      {
+        "texto": "Modo pasivo",
+        "correcta": false
+      },
+      {
+        "texto": "Modo activo",
+        "correcta": true
+      },
+      {
+        "texto": "Modo seguro",
+        "correcta": false
+      },
+      {
+        "texto": "Modo síncrono",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál es una limitación clave de HTTP/1.1?",
+    "opciones": [
+      {
+        "texto": "No usa TCP",
+        "correcta": false
+      },
+      {
+        "texto": "No soporta cifrado",
+        "correcta": false
+      },
+      {
+        "texto": "Head-of-line blocking",
+        "correcta": true
+      },
+      {
+        "texto": "No permite GET",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué implica que HTTP sea stateless?",
+    "opciones": [
+      {
+        "texto": "No usa puertos.",
+        "correcta": false
+      },
+      {
+        "texto": "No mantiene contexto entre peticiones.",
+        "correcta": true
+      },
+      {
+        "texto": "No tiene cabeceras.",
+        "correcta": false
+      },
+      {
+        "texto": "No tiene mensajes de respuesta.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué es un servidor DNS recursivo?",
+    "opciones": [
+      {
+        "texto": "El que contiene la raíz.",
+        "correcta": false
+      },
+      {
+        "texto": "El que responde con la IP final al cliente.",
+        "correcta": true
+      },
+      {
+        "texto": "El que almacena dominios.",
+        "correcta": false
+      },
+      {
+        "texto": "El que cifra consultas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué ocurre en una resolución iterativa?",
+    "opciones": [
+      {
+        "texto": "El servidor resuelve todo.",
+        "correcta": false
+      },
+      {
+        "texto": "No se obtiene respuesta.",
+        "correcta": false
+      },
+      {
+        "texto": "El cliente consulta a varios servidores.",
+        "correcta": true
+      },
+      {
+        "texto": "Se usa solo TCP.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál es el orden correcto de resolución DNS?",
+    "opciones": [
+      {
+        "texto": "Local -> raíz -> TLD -> autoritativo.",
+        "correcta": true
+      },
+      {
+        "texto": "Raíz -> local -> TLD -> autoritativo.",
+        "correcta": false
+      },
+      {
+        "texto": "TLD -> raíz -> local -> autoritativo.",
+        "correcta": false
+      },
+      {
+        "texto": "Autoritativo -> raíz -> TLD -> local.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Para qué sirve un registro MX?",
+    "opciones": [
+      {
+        "texto": "Asociar dominio a IP",
+        "correcta": false
+      },
+      {
+        "texto": "Redirigir dominios",
+        "correcta": false
+      },
+      {
+        "texto": "Indicar servidores de correo",
+        "correcta": true
+      },
+      {
+        "texto": "Indicar DNS raíz.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo de transporte es orientado a conexión?",
+    "opciones": [
+      {
+        "texto": "UDP",
+        "correcta": false
+      },
+      {
+        "texto": "IP",
+        "correcta": false
+      },
+      {
+        "texto": "TCP",
+        "correcta": true
+      },
+      {
+        "texto": "HTTP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué problema introduce NAT?",
+    "opciones": [
+      {
+        "texto": "Incrementa latencia",
+        "correcta": false
+      },
+      {
+        "texto": "Rompe independencias de capas",
+        "correcta": true
+      },
+      {
+        "texto": "Rompe independencias de capas",
+        "correcta": true
+      },
+      {
+        "texto": "Rompe independencias de capas",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo se usa para diagnóstico (ping)?",
+    "opciones": [
+      {
+        "texto": "ARP",
+        "correcta": false
+      },
+      {
+        "texto": "TCP",
+        "correcta": false
+      },
+      {
+        "texto": "IP",
+        "correcta": false
+      },
+      {
+        "texto": "ICMP",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué ocurre si un paquete supera el MTU y tenemos DF=0?",
+    "opciones": [
+      {
+        "texto": "Se descarta",
+        "correcta": false
+      },
+      {
+        "texto": "Se fragmenta",
+        "correcta": true
+      },
+      {
+        "texto": "Se cifra",
+        "correcta": false
+      },
+      {
+        "texto": "Se cifra.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué controla TCP para evitar saturar al receptor?",
+    "opciones": [
+      {
+        "texto": "TTL",
+        "correcta": false
+      },
+      {
+        "texto": "Control de flujo",
+        "correcta": true
+      },
+      {
+        "texto": "NAT",
+        "correcta": false
+      },
+      {
+        "texto": "ARP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué mecanismo usa TCP para iniciar conexión?",
+    "opciones": [
+      {
+        "texto": "ARP",
+        "correcta": false
+      },
+      {
+        "texto": "Flooding",
+        "correcta": false
+      },
+      {
+        "texto": "Three-way handshake",
+        "correcta": true
+      },
+      {
+        "texto": "TTL",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué tipo de dirección envía al nodo más cercano?",
+    "opciones": [
+      {
+        "texto": "Broadcast",
+        "correcta": false
+      },
+      {
+        "texto": "Multicast",
+        "correcta": false
+      },
+      {
+        "texto": "Anycast",
+        "correcta": true
+      },
+      {
+        "texto": "Unicast",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué técnica permite corregir errores (no solo detectarlos)?",
+    "opciones": [
+      {
+        "texto": "Paridad",
+        "correcta": false
+      },
+      {
+        "texto": "CRC",
+        "correcta": false
+      },
+      {
+        "texto": "Hamming",
+        "correcta": true
+      },
+      {
+        "texto": "Checksum",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué técnica permite compartir el medio físico entre usuarios?",
+    "opciones": [
+      {
+        "texto": "FDMA",
+        "correcta": true
+      },
+      {
+        "texto": "Control de acceso",
+        "correcta": false
+      },
+      {
+        "texto": "CSMA",
+        "correcta": false
+      },
+      {
+        "texto": "Protocolos de turno",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué algoritmos se emplean para definir los caminos que siguen los paquetes IP?",
+    "opciones": [
+      {
+        "texto": "Algoritmos de control de flujo",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de enrutamiento",
+        "correcta": true
+      },
+      {
+        "texto": "Algoritmos de detección de errores",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de control de congestión.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿En qué consiste el servicio de túneling?",
+    "opciones": [
+      {
+        "texto": "Encapsular dos protocolos de transporte.",
+        "correcta": false
+      },
+      {
+        "texto": "Encapsular un protocolo de transporte en uno de red.",
+        "correcta": false
+      },
+      {
+        "texto": "Encapsular dos protocolos de red, uno sobre otro.",
+        "correcta": true
+      },
+      {
+        "texto": "Crear túneles llamados sockets.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "El algoritmo de “shortest path”:",
+    "opciones": [
+      {
+        "texto": "Algoritmo enrutamiento que reenvía cualquier paquete por todas interfaces.",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmo de control de paquetes para que sean los más pequeños posibles.",
+        "correcta": false
+      },
+      {
+        "texto": "Enrutamiento por el camino más corto (menos saltos).",
+        "correcta": true
+      },
+      {
+        "texto": "Algoritmo basado en el TTL de los paquetes IP.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones describe mejor el funcionamiento del protocolo FTP?",
+    "opciones": [
+      {
+        "texto": "Utilizar una conexión de control y otra de datos separados.",
+        "correcta": true
+      },
+      {
+        "texto": "Permitir la transferencia de texto.",
+        "correcta": false
+      },
+      {
+        "texto": "No utilice el protocolo TCP.",
+        "correcta": false
+      },
+      {
+        "texto": "Usar únicamente una conexión para datos y control.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes tecnologías pertenece a redes WPAN?",
+    "opciones": [
+      {
+        "texto": "WiMAX",
+        "correcta": false
+      },
+      {
+        "texto": "WiFi",
+        "correcta": false
+      },
+      {
+        "texto": "Bluetooth",
+        "correcta": true
+      },
+      {
+        "texto": "3G y 4G.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes es un código de redirección HTTP?",
+    "opciones": [
+      {
+        "texto": "200",
+        "correcta": false
+      },
+      {
+        "texto": "404",
+        "correcta": false
+      },
+      {
+        "texto": "500",
+        "correcta": false
+      },
+      {
+        "texto": "301",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes registros DNS se utiliza para asociar un alias a un dominio?",
+    "opciones": [
+      {
+        "texto": "A",
+        "correcta": false
+      },
+      {
+        "texto": "AAAA",
+        "correcta": false
+      },
+      {
+        "texto": "MX",
+        "correcta": false
+      },
+      {
+        "texto": "CNAME",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál es una característica del control de congestión en TCP?",
+    "opciones": [
+      {
+        "texto": "En el caso de haber pérdidas, reducir la velocidad.",
+        "correcta": true
+      },
+      {
+        "texto": "Aumentar siempre la velocidad.",
+        "correcta": false
+      },
+      {
+        "texto": "Funcionar sólo con UDP.",
+        "correcta": false
+      },
+      {
+        "texto": "No depender de la red.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "El encaminamiento unicast se caracteriza por:",
+    "opciones": [
+      {
+        "texto": "enviar información a un destino único",
+        "correcta": true
+      },
+      {
+        "texto": "enviar información a grupos de nodos",
+        "correcta": false
+      },
+      {
+        "texto": "enviar información a todos los nodos marcados como unicast",
+        "correcta": false
+      },
+      {
+        "texto": "enviar información al nodo más cercano.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "Dirección física de 6 bytes asignada unívocamente a cada adaptador de red es:",
+    "opciones": [
+      {
+        "texto": "Dirección LLC",
+        "correcta": false
+      },
+      {
+        "texto": "Dirección IP",
+        "correcta": false
+      },
+      {
+        "texto": "Dirección MAC",
+        "correcta": true
+      },
+      {
+        "texto": "Dirección TCP.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué ocurre cuando una IP destino no pertenece a mi red?",
+    "opciones": [
+      {
+        "texto": "Se hace un broadcast.",
+        "correcta": false
+      },
+      {
+        "texto": "Mi router reenvía los paquetes hacia el gateway.",
+        "correcta": true
+      },
+      {
+        "texto": "No hay problema, se envía a la IP destino directamente.",
+        "correcta": false
+      },
+      {
+        "texto": "El paquete se descarta.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "El ruido en una señal se define como",
+    "opciones": [
+      {
+        "texto": "una señal constante",
+        "correcta": false
+      },
+      {
+        "texto": "perturbación aleatoria que altera la señal",
+        "correcta": true
+      },
+      {
+        "texto": "una mejora de la transmisión",
+        "correcta": false
+      },
+      {
+        "texto": "un mecanismo de control.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "En TDMA el canal de transmisión se divide en",
+    "opciones": [
+      {
+        "texto": "distintas frecuencias",
+        "correcta": false
+      },
+      {
+        "texto": "distintos códigos",
+        "correcta": false
+      },
+      {
+        "texto": "distintos instantes de tiempo",
+        "correcta": true
+      },
+      {
+        "texto": "distintos patrones de interferencia.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre DNS?",
+    "opciones": [
+      {
+        "texto": "Es un sistema centralizado.",
+        "correcta": false
+      },
+      {
+        "texto": "Solo funciona en redes locales LAN.",
+        "correcta": false
+      },
+      {
+        "texto": "Utiliza para descifrar direcciones MAC.",
+        "correcta": false
+      },
+      {
+        "texto": "Sistema jerárquico y distribuido.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones es correcta sobre el protocolo IMAP?",
+    "opciones": [
+      {
+        "texto": "Descarga correos y los elimina del servidor.",
+        "correcta": false
+      },
+      {
+        "texto": "Permite gestionar directamente correos en el servidor.",
+        "correcta": true
+      },
+      {
+        "texto": "Solo utiliza para el envío de correos electrónicos.",
+        "correcta": false
+      },
+      {
+        "texto": "No permite el acceso desde múltiples dispositivos.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes mensajes forma parte del proceso típico de DHCP?",
+    "opciones": [
+      {
+        "texto": "Hello, Comm, Data, Fin.",
+        "correcta": false
+      },
+      {
+        "texto": "Sync, Sync-Ack, Ack.",
+        "correcta": false
+      },
+      {
+        "texto": "Discover, Offer, Request, Ack.",
+        "correcta": true
+      },
+      {
+        "texto": "Query, Response, Update.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué campo de la cabecera TCP permite ordenar los datos?",
+    "opciones": [
+      {
+        "texto": "puerto origen/destino",
+        "correcta": false
+      },
+      {
+        "texto": "checksum",
+        "correcta": false
+      },
+      {
+        "texto": "número de secuencia",
+        "correcta": true
+      },
+      {
+        "texto": "tamaño de ventana.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué identifica de forma única una comunicación entre procesos?",
+    "opciones": [
+      {
+        "texto": "Dirección MAC",
+        "correcta": false
+      },
+      {
+        "texto": "Dirección IP únicamente",
+        "correcta": false
+      },
+      {
+        "texto": "Dirección IP y puertos",
+        "correcta": true
+      },
+      {
+        "texto": "Sólo puertos.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "La fragmentación de paquetes ocurre cuando",
+    "opciones": [
+      {
+        "texto": "el paquete es demasiado pequeño",
+        "correcta": false
+      },
+      {
+        "texto": "se utiliza el protocolo UDP",
+        "correcta": false
+      },
+      {
+        "texto": "se utiliza protocolos de transportes sin seguridad",
+        "correcta": false
+      },
+      {
+        "texto": "el paquete es más grande que lo indicado por MTU.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes rangos corresponde a direcciones privadas tipo C?",
+    "opciones": [
+      {
+        "texto": "12.0.0.0 - 12.255.255.255",
+        "correcta": false
+      },
+      {
+        "texto": "172.20.0.0 - 172.20.255.255",
+        "correcta": false
+      },
+      {
+        "texto": "50.0.0.0 - 20.255.255.255",
+        "correcta": false
+      },
+      {
+        "texto": "192.168.10.0 - 192.168.10.255",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿En cuál de las siguientes direcciones IP se ha realizado subnetting?",
+    "opciones": [
+      {
+        "texto": "10.25.0.15/8",
+        "correcta": false
+      },
+      {
+        "texto": "172.16.34.7/16",
+        "correcta": false
+      },
+      {
+        "texto": "192.168.50.130/27",
+        "correcta": true
+      },
+      {
+        "texto": "200.45.8.2/24",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿En cuál de las siguientes direcciones IP se ha realizado subnetting?",
+    "opciones": [
+      {
+        "texto": "10.14.8.25/8",
+        "correcta": false
+      },
+      {
+        "texto": "172.18.40.7/16",
+        "correcta": false
+      },
+      {
+        "texto": "192.168.12.140/24",
+        "correcta": false
+      },
+      {
+        "texto": "172.20.5.10/24.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "Cuando un ataque inyecta información en el canal, bien por suplantación o por reenvío, hablamos de un ataque por",
+    "opciones": [
+      {
+        "texto": "Intercepción",
+        "correcta": false
+      },
+      {
+        "texto": "Modificación",
+        "correcta": false
+      },
+      {
+        "texto": "Interrupción",
+        "correcta": false
+      },
+      {
+        "texto": "Fabricación",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "En CDMA, la multiplexación de usuarios se realiza mediante",
+    "opciones": [
+      {
+        "texto": "diferentes potencias",
+        "correcta": false
+      },
+      {
+        "texto": "diferentes códigos",
+        "correcta": true
+      },
+      {
+        "texto": "diferentes slots temporales",
+        "correcta": false
+      },
+      {
+        "texto": "diferentes frecuencias.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes requisitos no pertenece al modelo CIDAN?",
+    "opciones": [
+      {
+        "texto": "Confidencialidad.",
+        "correcta": false
+      },
+      {
+        "texto": "Duración.",
+        "correcta": true
+      },
+      {
+        "texto": "Autenticación.",
+        "correcta": false
+      },
+      {
+        "texto": "No repudio.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo está diseñado para transferencia de archivos con control de sesión de manera segura?",
+    "opciones": [
+      {
+        "texto": "HTTP",
+        "correcta": false
+      },
+      {
+        "texto": "FTP",
+        "correcta": false
+      },
+      {
+        "texto": "SFTP",
+        "correcta": true
+      },
+      {
+        "texto": "DNS",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo se usa para el envío de correo entre servidores?",
+    "opciones": [
+      {
+        "texto": "POP3",
+        "correcta": false
+      },
+      {
+        "texto": "IMAP",
+        "correcta": false
+      },
+      {
+        "texto": "SMTP",
+        "correcta": true
+      },
+      {
+        "texto": "HTTP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué es un servidor DNS recursivo?",
+    "opciones": [
+      {
+        "texto": "El que contiene la raíz.",
+        "correcta": false
+      },
+      {
+        "texto": "El que responde con la IP final al cliente.",
+        "correcta": true
+      },
+      {
+        "texto": "El que almacena dominios.",
+        "correcta": false
+      },
+      {
+        "texto": "El que cifra consultas.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué protocolo de transporte es orientado a conexión?",
+    "opciones": [
+      {
+        "texto": "UDP",
+        "correcta": false
+      },
+      {
+        "texto": "IPsec",
+        "correcta": false
+      },
+      {
+        "texto": "TCP",
+        "correcta": true
+      },
+      {
+        "texto": "ARP",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué técnica permite compartir el medio físico entre usuarios con distintas frecuencias?",
+    "opciones": [
+      {
+        "texto": "FDMA",
+        "correcta": true
+      },
+      {
+        "texto": "CDMA",
+        "correcta": false
+      },
+      {
+        "texto": "CSMA",
+        "correcta": false
+      },
+      {
+        "texto": "TDMA",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "De las siguientes opciones, ¿cuál no está relacionada con la seguridad en redes?",
+    "opciones": [
+      {
+        "texto": "Firewall",
+        "correcta": false
+      },
+      {
+        "texto": "Ipsec",
+        "correcta": false
+      },
+      {
+        "texto": "VPN",
+        "correcta": false
+      },
+      {
+        "texto": "Algoritmos de control de errores.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "La cabecera AH de IPsec puede ofrecer",
+    "opciones": [
+      {
+        "texto": "autenticación y cifrado",
+        "correcta": false
+      },
+      {
+        "texto": "autenticación y seguridad",
+        "correcta": false
+      },
+      {
+        "texto": "autenticación e integridad",
+        "correcta": true
+      },
+      {
+        "texto": "autenticación y disponibilidad.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de las siguientes afirmaciones sobre broadcast es correcta?",
+    "opciones": [
+      {
+        "texto": "Solo se usa en TCP.",
+        "correcta": false
+      },
+      {
+        "texto": "Se limita a la red local.",
+        "correcta": true
+      },
+      {
+        "texto": "Los routers lo reenvían entre redes.",
+        "correcta": false
+      },
+      {
+        "texto": "Se envía a un único nodo.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Qué herramienta nos permite controlar los accesos a los servicios de red?",
+    "opciones": [
+      {
+        "texto": "VPN",
+        "correcta": false
+      },
+      {
+        "texto": "Firewall",
+        "correcta": true
+      },
+      {
+        "texto": "TLS",
+        "correcta": false
+      },
+      {
+        "texto": "Tabla de servicios.",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes métodos HTTP no modifica el recurso en el servidor?",
+    "opciones": [
+      {
+        "texto": "PUT",
+        "correcta": false
+      },
+      {
+        "texto": "DELETE",
+        "correcta": false
+      },
+      {
+        "texto": "GET",
+        "correcta": true
+      },
+      {
+        "texto": "POST",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál es la diferencia principal entre GET y POST?",
+    "opciones": [
+      {
+        "texto": "POST no permite enviar información al servidor.",
+        "correcta": false
+      },
+      {
+        "texto": "GET permite enviar datos ilimitados y POST no.",
+        "correcta": false
+      },
+      {
+        "texto": "No existe diferencia entre ambos.",
+        "correcta": false
+      },
+      {
+        "texto": "GET envía los datos en la URL, mientras que POST los envía en el cuerpo.",
+        "correcta": true
+      }
+    ]
+  },
+  {
+    "enunciado": "¿Cuál de los siguientes rangos corresponde a direcciones privadas de clase B?",
+    "opciones": [
+      {
+        "texto": "172.0.0.0 - 172.255.255.255",
+        "correcta": false
+      },
+      {
+        "texto": "172.16.0.0 - 172.31.255.255",
+        "correcta": true
+      },
+      {
+        "texto": "192.168.0.0 - 192.168.255.255",
+        "correcta": false
+      },
+      {
+        "texto": "150.0.0.0 - 150.255.255.255",
+        "correcta": false
+      }
+    ]
+  },
+  {
+    "enunciado": "Selecciona la afirmación INCORRECTA sobre la firma digital.",
+    "opciones": [
+      {
+        "texto": "Se realiza con la clave privada del emisor.",
+        "correcta": false
+      },
+      {
+        "texto": "Permite verificar la identidad del emisor.",
+        "correcta": false
+      },
+      {
+        "texto": "Garantiza la integridad del mensaje.",
+        "correcta": false
+      },
+      {
+        "texto": "Su principal objetivo es proporcionar confidencialidad al mensaje.",
+        "correcta": true
+      }
+    ]
+  }
+]

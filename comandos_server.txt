@@ -1,0 +1,7 @@
+--- arrancar server
+
+python3 -m http.server 8000
+
+--- parar server
+
+pkill -f "python3 -m http.server 8000"

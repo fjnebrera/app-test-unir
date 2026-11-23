@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Batería de Test</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+
+    <h1 id="titulo-asignatura">Batería de Test</h1>
+
+    <div id="vista-seleccion">
+        <div class="selector-asignatura">
+            <label for="selector-asignatura">Asignatura:</label>
+            <select id="selector-asignatura" disabled>
+                <option value="">Cargando asignaturas…</option>
+            </select>
+        </div>
+
+        <button type="button" id="btn-cargar-asignatura" class="action-btn" disabled>Cargar tests</button>
+        <p id="estado-carga" role="status" aria-live="polite">Cargando asignaturas…</p>
+    </div>
+
+    <div id="vista-menu" class="hidden">
+        <h2>Selecciona una batería</h2>
+        <div id="contenedor-botones-test"></div>
+
+        <div class="botones-accion">
+            <button type="button" id="btn-volver-asignaturas" class="action-btn secondary">Volver a la pantalla principal</button>
+        </div>
+    </div>
+
+    <div id="vista-test" class="hidden">
+        <h2 id="titulo-test"></h2>
+        <div id="contenedor-preguntas"></div>
+
+        <div class="botones-accion">
+            <button type="button" id="btn-entregar" class="action-btn">Entregar Test</button>
+            <button type="button" id="btn-volver-menu" class="action-btn secondary">Volver al Menú</button>
+        </div>
+
+        <div id="resultado-box" class="hidden"></div>
+    </div>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

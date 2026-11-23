@@ -1,0 +1,51 @@
+/* --- INFRAESTRUCTURA: ESTILOS (Mobile-First) --- */
+body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; padding: 15px; max-width: 600px; margin: auto; background-color: #f4f7f6; color: #333; }
+h1, h2 { color: #2c3e50; text-align: center; }
+.hidden { display: none !important; }
+
+/* Selector de asignatura */
+.selector-asignatura { margin-bottom: 20px; }
+.selector-asignatura label { display: block; margin-bottom: 6px; font-weight: bold; color: #2c3e50; }
+.selector-asignatura select { width: 100%; padding: 12px; font-size: 16px; border: 1px solid #bdc3c7; border-radius: 8px; background-color: white; color: #333; cursor: pointer; }
+.selector-asignatura select:disabled { background-color: #ecf0f1; color: #7f8c8d; cursor: wait; }
+
+/* Botones del menú principal - Estilo App Móvil */
+.test-btn { 
+    display: block; 
+    width: 100%; 
+    margin: 15px 0; 
+    padding: 18px; 
+    font-size: 18px; 
+    font-weight: bold;
+    background-color: #3498db; 
+    color: white; 
+    border: none; 
+    border-radius: 12px; /* Bordes más redondeados */
+    cursor: pointer; 
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: background 0.3s, transform 0.1s; 
+}
+.test-btn:hover { background-color: #2980b9; }
+.test-btn:active { transform: scale(0.98); } /* Feedback al tocar en móvil */
+
+/* Tarjetas de preguntas */
+.pregunta-card { background: white; padding: 20px; border-radius: 12px; margin-bottom: 20px; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+h3 { font-size: 17px; margin-top: 0; }
+.opcion-label { display: block; margin-bottom: 12px; cursor: pointer; padding: 10px; border-radius: 6px; background-color: #fdfdfd; border: 1px solid #eee; transition: all 0.2s;}
+.opcion-label input { margin-right: 10px; transform: scale(1.2); } /* Radio buttons más grandes */
+
+/* Clases de corrección visual */
+.opcion-correcta { background-color: #d5f5e3; color: #27ae60; font-weight: bold; border-color: #27ae60; }
+.opcion-incorrecta { background-color: #fadbd8; color: #c0392b; text-decoration: line-through; border-color: #c0392b; }
+
+/* Botones de acción */
+.botones-accion { display: flex; flex-direction: column; gap: 10px; margin-top: 20px; }
+.action-btn { width: 100%; padding: 15px; background-color: #2ecc71; color: white; border: none; border-radius: 8px; cursor: pointer; font-size: 18px; font-weight: bold;}
+.action-btn.secondary { background-color: #95a5a6; }
+.action-btn:disabled { background-color: #bdc3c7; cursor: not-allowed; }
+
+#resultado-box { margin-top: 20px; padding: 20px; background-color: #e8f8f5; border-radius: 8px; border-left: 5px solid #2ecc71; font-size: 18px; font-weight: bold; text-align: center; }
+
+/* Estado de carga / errores de datos */
+#estado-carga { text-align: center; padding: 10px; color: #7f8c8d; font-weight: bold; }
+#estado-carga.error-carga { color: #c0392b; background-color: #fadbd8; border-radius: 8px; }
